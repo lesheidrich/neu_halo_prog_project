@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from pprint import pprint as pprint
 
 df = pd.read_csv('../dataset/honda_sell_data.csv')
 
@@ -24,29 +25,22 @@ for col in all_cols:
 # mileage = mileage.astype(int)
 # print(mileage)
 
+#min-max scaling 0-1
 year_normalized = (year - np.min(year)) / (np.max(year) - np.min(year))
 # price_normalized = (price - np.min(price)) / (np.max(price) - np.min(price))
 # mileage_normalized = (mileage - np.min(mileage)) / (np.max(mileage) - np.min(mileage))
 
-print(len(set(model)))
-print(set(model))
+#one-hot encoding
+model_labels = list(set(model))
+lables_inds = [model_labels.index(label) for label in model_labels]
+tr_model = [[1 if i == l else 0 for i in range(len(set(model)))] for l in lables_inds]
 
+print(tr_model)
 
 # for i, item in enumerate(mileage):
 #     print(item, "\t", mileage_normalized[i])
 
 
-
-"""
-Year	0-1	minmax saling
-Model		one-hot encoding
-Price	0-1	minmax saling
-Exterior_Color	one-hot encoding
-Drivetrain	one-hot encoding
-Engine		encode or preprocess
-Mileage	0-1	minmax saling
-Seller_Type	one-hot encoding
-"""
 
 
 
