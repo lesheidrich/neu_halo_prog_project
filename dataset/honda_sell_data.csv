@@ -178,7 +178,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,CR-V EX,New,"$29,485 ",4.7,3094,Platinum White Pearl,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW1H58NA003252,X3252,11,4.9,4.8,4.7,4.8,4.7,4.9,FL,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,240 ",5,4674,Urban Gray,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H93PH800408,H34345,10,5,3,4,4,5,5,VA,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$46,420 ",4.8,536,Sonic Gray Pearl,Black,All-wheel Drive,18–24,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FPYK3F73PB009006,H29499,0,5,4.8,4.8,4.2,5,5,DE,Dealer
-2023,Honda,Ridgeline RTL-E,New,"$46,420 ",4.8,536,,,,,,,,,,,,,,,,,,
+2023,Honda,Ridgeline RTL-E,New,"$46,420 ",4.8,536,,,,,,,,,,,,,,,,,,Individual
 2022,Honda,Pilot Touring 7-Passenger,New,"$48,465 ",4.4,124,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H66NB083990,NB083990,3,5,5,5,5,5,5,PA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,205 ",4.5,3416,Black,–,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H23NB076475,NB076475,42,5,5,5,5,5,5,NJ,Dealer
 2023,Honda,Ridgeline RTL,New,"$43,125 ",4.9,3078,Lunar Silver Metallic,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F55PB021138,PB021138,–,5,4.8,4.8,4.2,5,5,NJ,Dealer
@@ -484,7 +484,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,240 ",4.9,1737,Still Night Pearl,Black,All-wheel Drive,40–34,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,2HKRS6H92PH800819,Q00819,14,5,3,4,4,5,5,NC,Dealer
 2022,Honda,Pilot EX-L,New,"$43,605 ",5,2068,Lunar,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H53NB089964,220937,6,5,5,5,5,5,5,MD,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$46,420 ",5,2068,Gray,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F72PB010521,230059,15,5,4.8,4.8,4.2,5,5,MD,Dealer
-2023,Honda,Ridgeline RTL-E,New,"$46,420 ",5,2068,,,,,,,,,,,,,,,,,,
+2023,Honda,Ridgeline RTL-E,New,"$46,420 ",5,2068,,,,,,,,,,,,,,,,,,Individual
 2022,Honda,Accord Hybrid Sport,New,"$32,560 ",5,3087,Still Night Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F2XNA041652,E2041652,–,4.9,5,5,4.9,4.9,5,MD,Dealer
 2017,Honda,Accord LX,Used,"$12,499 ",4.5,188,White,Tan,Front-wheel Drive,27–36,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F31HA214342,214342,86667,4.8,4.8,4.8,4.8,4.8,4.9,FL,Dealer
 2022,Honda,CR-V LX,New,"$28,045 ",4.7,3094,Crystal,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW1H29NE013800,X13800,10,4.9,4.8,4.7,4.8,4.7,4.9,FL,Dealer
@@ -802,7 +802,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Sport,New,"$41,770 ",4.7,393,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB077713,821398,407,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Passport EX-L,New,"$44,665 ",4.9,9,Obsidian Blue Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H55NB024190,821488,10,5,5,4.9,5,4.9,5,CA,Dealer
 2023,Honda,Ridgeline RTL,New,"$43,580 ",4.7,306,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F53PB019744,23-189,3,5,4.8,4.8,4.2,5,5,CA,Dealer
-2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$24,990 ",4,9531,Green,Beige,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F35JC024032,2001974581,56576,4.8,4.7,4.6,4.6,4.4,4.7,,
+2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$24,990 ",4,9531,Green,Beige,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F35JC024032,2001974581,56576,4.8,4.7,4.6,4.6,4.4,4.7,,Individual
 2022,Honda,Accord Sport 2.0T,New,"$35,150 ",4.3,471,Sonic Blue,Black,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F38NA023539,NA023539,8,5,5,5,5,5,5,CA,Dealer
 2023,Honda,CR-V EX-L,New,"$35,400 ",4.3,471,Radiant Red Metallic,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS3H71PE003297,PE003297,–,5,5,5,4,4,5,CA,Dealer
 2023,Honda,Pilot TrailSport,New,"$51,735 ",4.3,471,Sonic Gray Pearl,Black,AWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H62PB000445,5700445,–,,,,,,,CA,Dealer
@@ -902,7 +902,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport SE,New,"$31,960 ",5,9,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F48NA102969,821638,3,5,5,5,5,5,5,CA,Dealer
 2023,Honda,HR-V EX-L,New,"$29,145 ",4.6,9,Milano Red,–,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H73PM723699,830212,5,4,5,4,5,5,5,CA,Dealer
 2022,Honda,CR-V EX-L,New,"$35,040 ",4.9,5490,Platinum White Pearl,Black,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H82NE050651,22N289,4,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
-2011,Honda,CR-Z EX,Used,"$15,590 ",4,9531,Silver,Gray / Silver,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI SOHC Hybrid,JHMZF1D64BS003029,2001954855,47048,4.2,4.4,4,4.4,4.7,4.7,,
+2011,Honda,CR-Z EX,Used,"$15,590 ",4,9531,Silver,Gray / Silver,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI SOHC Hybrid,JHMZF1D64BS003029,2001954855,47048,4.2,4.4,4,4.4,4.7,4.7,,Individual
 2022,Honda,Passport TrailSport,New,"$44,660 ",4.9,879,Sonic Gray Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H66NB022313,NB022313,1,5,5,4.9,5,4.9,5,CA,Dealer
 2023,Honda,Passport EX-L,New,"$40,291 ",4.8,1780,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H58PB000520,PB000520,5,,,,,,,CA,Dealer
 2022,Honda,Pilot TrailSport,New,"$43,105 ",4.8,1780,Crystal Black Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H80NB093013,NB093013,3,5,5,5,5,5,5,CA,Dealer
@@ -1002,7 +1002,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport 2.0T,New,"$35,150 ",5,9,Still Night Pearl,Black,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F30NA019193,821561,5,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Passport EX-L,New,"$42,073 ",4.9,768,Lunar Silver Metallic,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H50NB031967,C231967,0,5,5,4.9,5,4.9,5,CA,Dealer
 2022,Honda,CR-V Touring,New,"$38,240 ",4.8,11,Platinum White Pearl,Ivory,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H91NE048219,22H0121,6,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
-2017,Honda,Pilot EX-L,Used,"$25,990 ",4,9532,Gray,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H5XHB044311,2002111271,62905,4.8,4.7,4.7,4.6,4.7,4.7,,
+2017,Honda,Pilot EX-L,Used,"$25,990 ",4,9532,Gray,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H5XHB044311,2002111271,62905,4.8,4.7,4.7,4.6,4.7,4.7,,Individual
 2023,Honda,Pilot Touring,New,"$47,795 ",4,9532,Crystal Black Pearl,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG2H7XPB000062,5700062A,–,,,,,,,CA,Dealer
 2023,Honda,CR-V EX,New,"$32,750 ",4.7,12,Mountain Air Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS3H41PE002463,5702463A,5,5,5,5,4,4,5,CA,Dealer
 2023,Honda,HR-V EX-L,New,"$29,145 ",4.6,23,Modern Steel Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H77PM715900,30407,14,4,5,4,5,5,5,CA,Dealer
@@ -1086,7 +1086,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,CR-V EX-L,New,"$35,005 ",5,8363,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H71PH300129,H301149,23,5,5,5,4,4,5,NC,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$47,320 ",5,2871,Platinum White,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F73PB006381,M3006381,–,5,4.8,4.8,4.2,5,5,MD,Dealer
 2022,Honda,Passport TrailSport,New,"$44,660 ",4,730,Platinum White Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H69NB031748,B031748,5,5,5,4.9,5,4.9,5,MD,Dealer
-2012,Honda,Pilot LX,Used,"$16,990 ",4,9533,Blue,Gray,Four-wheel Drive,17–24,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF4H28CB057843,2002192336,95522,4.6,4.5,4.5,4.5,4.5,4.7,,
+2012,Honda,Pilot LX,Used,"$16,990 ",4,9533,Blue,Gray,Four-wheel Drive,17–24,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF4H28CB057843,2002192336,95522,4.6,4.5,4.5,4.5,4.5,4.7,,Individual
 2022,Honda,Pilot Black Edition,New,"$51,845 ",4.7,3094,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H75NB015320,S15320,11,5,5,5,5,5,5,FL,Dealer
 2019,Honda,Ridgeline Sport,Used,"$30,200 ",5,1864,Lunar,Black,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F12KB045001,HP23405,31431,4.9,4.8,4.8,4.6,4.7,4.9,PA,Dealer
 2023,Honda,Odyssey EX-L,New,"$41,905 ",5,4674,Lunar Silver Metallic,Brown,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H64PB037624,H34580,10,5,5,4,4,4,5,VA,Dealer
@@ -1102,7 +1102,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Odyssey Elite,New,"$51,160 ",4.7,393,Sonic Gray Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H9XPB011118,630047,3,5,5,4,4,4,5,CA,Dealer
 2023,Honda,HR-V EX-L,New,"$29,650 ",5,619,Nordic Forest Pearl,Black,Front-wheel Drive,26–32,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,3CZRZ1H76PM727035,230223,0,4,5,4,5,5,5,CA,Dealer
 2021,Honda,Pilot Elite,Used,"$38,990 ",4.3,232,Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H00MB000077,J59751,662,4.9,4.8,4.8,4.7,4.7,4.8,CA,Dealer
-2018,Honda,Accord Hybrid Touring,Used,"$26,590 ",4,9532,White,Beige,Front-wheel Drive,47–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F95JA013281,2002140028,72250,4.7,4.9,4.5,4.5,4.9,4.9,,
+2018,Honda,Accord Hybrid Touring,Used,"$26,590 ",4,9532,White,Beige,Front-wheel Drive,47–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F95JA013281,2002140028,72250,4.7,4.9,4.5,4.5,4.9,4.9,,Individual
 2023,Honda,Pilot Touring,New,"$50,240 ",4.7,376,Platinum White Pearl,–,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H7XPB002436,60079,3,,,,,,,CA,Dealer
 2008,Honda,Accord LX,Used,"$6,995 ",4.4,10,White,–,Front-wheel Drive,21–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,JHMCP26378C061165,61165,178517,4.4,4.3,4.3,4.3,4.5,4.3,CA,Dealer
 2022,Honda,Passport TrailSport,Honda Certified,"$38,993 ",4.4,1014,Crystal Black Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H63NB022950,NB022950P,606,5,5,4.9,5,4.9,5,CA,Dealer
@@ -1202,11 +1202,11 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Sport,New,"$26,940 ",5,1337,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,19XFL2H89PE000202,5700202,7,,,,,,,CA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,600 ",4.1,14,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H22NB104380,H3072,2,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,205 ",4.1,14,Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H22NB101950,H3033,2,5,5,5,5,5,5,CA,Dealer
-2009,Honda,Ridgeline RTL,Used,"$18,590 ",4,9532,White,Gray,Four-wheel Drive,15–20,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FPYK16529B108034,2002111016,84594,4.6,4.7,4.7,4.5,4.5,4.8,,
+2009,Honda,Ridgeline RTL,Used,"$18,590 ",4,9532,White,Gray,Four-wheel Drive,15–20,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FPYK16529B108034,2002111016,84594,4.6,4.7,4.7,4.5,4.5,4.8,,Individual
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,850 ",4.4,23,Platinum White Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H99PH807234,30440,–,5,3,4,4,5,5,CA,Dealer
 2015,Honda,Civic Si,Used,"$22,998 ",4.7,7,Gray,Red,Front-wheel Drive,22–31,Gasoline,6-Speed Manual,2.4L I4 16V MPFI DOHC,2HGFB6E55FH709833,23494212,73464,4.6,4.6,4.6,4.7,4.6,4.8,NV,Dealer
 2023,Honda,Civic Si Base,New,"$29,590 ",4.3,1905,Platinum White Pearl,–,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E56PH471194,230418,10,,,,,,,AZ,Dealer
-2010,Honda,CR-V EX-L,Used,"$16,590 ",4,9532,Black,Black,Four-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE4H75AL033216,2001695016,84799,4.5,4.6,4.4,4.7,4.5,4.8,,
+2010,Honda,CR-V EX-L,Used,"$16,590 ",4,9532,Black,Black,Four-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE4H75AL033216,2001695016,84799,4.5,4.6,4.4,4.7,4.5,4.8,,Individual
 2016,Honda,Odyssey SE,Used,"$23,585 ",4.4,162,Smoky Topaz Metallic,Truffle,Front-wheel Drive,19–28,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H39GB155913,230131B,62713,4.8,4.6,4.7,4.6,4.7,4.8,WA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,205 ",3.8,672,Lunar Silver Metallic,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H24NB105062,46280,5,5,5,5,5,5,5,WA,Dealer
 2022,Honda,Pilot Special Edition,New,"$40,876 ",3.8,672,Deep Scarlet Pearl,Beige,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H24NB101836,46246,5,5,5,5,5,5,5,WA,Dealer
@@ -1224,7 +1224,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Special Edition,New,"$44,205 ",5,234,Lunar Silver Metallic,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H26NB103524,N1070,2,5,5,5,5,5,5,MO,Dealer
 2022,Honda,Accord Hybrid Sport,New,"$32,560 ",4.8,194,Still Night Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F25NA041610,A041610,3,4.9,5,5,4.9,4.9,5,TX,Dealer
 2021,Honda,Insight EX,Used,"$25,991 ",5,2884,Modern Steel Metallic,Ivory,Front-wheel Drive,55–49,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F55ME008465,ME008465T,18516,5,5,5,5,5,5,TX,Dealer
-2009,Honda,CR-V LX,Used,"$15,990 ",4,9531,Blue,Gray,Front-wheel Drive,20–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,3CZRE38389G702093,2002139639,37765,4.4,4.5,4.5,4.7,4.6,4.8,,
+2009,Honda,CR-V LX,Used,"$15,990 ",4,9531,Blue,Gray,Front-wheel Drive,20–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,3CZRE38389G702093,2002139639,37765,4.4,4.5,4.5,4.7,4.6,4.8,,Individual
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,240 ",4.3,1019,Platinum White Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H98PH801294,PH801294,5,5,3,4,4,5,5,AR,Dealer
 2022,Honda,Pilot EX-L,New,"$41,500 ",4.6,6558,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H56NB096794,221691,6,5,5,5,5,5,5,MN,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,240 ",4.3,511,Platinum White Pearl,Gray,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H92PH800660,C1089,12,5,3,4,4,5,5,MN,Dealer
@@ -1236,7 +1236,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot TrailSport,New,"$43,815 ",5,1516,Lunar Silver Metallic,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H81NB077824,22706,6,5,5,5,5,5,5,LA,Dealer
 2022,Honda,Passport TrailSport,Used,"$40,984 ",5,2602,Platinum White Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H60NB026177,T558481A,593,5,5,4.9,5,4.9,5,LA,Dealer
 2023,Honda,Ridgeline RTL,New,"$43,975 ",4.1,522,Obsidian Blue Pearl,Gray,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F51PB012338,PB012338,5,5,4.8,4.8,4.2,5,5,LA,Dealer
-2023,Honda,Ridgeline RTL,New,"$43,975 ",4.1,522,,,,,,,,,,,,,,,,,,
+2023,Honda,Ridgeline RTL,New,"$43,975 ",4.1,522,,,,,,,,,,,,,,,,,,Individual
 2019,Honda,Passport Sport,Used,"$25,500 ",5,1066,Obsidian Blue Pearl,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H2XKB008174,C7067,37225,4.8,4.7,4.7,4.6,4.7,4.8,MS,Dealer
 2022,Honda,Accord Sport 1.5T,New,"$29,970 ",3.9,841,Sonic Gray Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F35NA112687,NA112687,10,5,5,5,5,5,5,WI,Dealer
 2022,Honda,Pilot Sport,New,"$41,770 ",5,162,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H31NB104136,H22320,10,5,5,5,5,5,5,IL,Dealer
@@ -1244,7 +1244,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot EX-L,New,"$43,605 ",4.6,1874,Crystal Black Pearl,–,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H5XNB094448,NB094448,5,5,5,5,5,5,5,IL,Dealer
 2022,Honda,Pilot Sport,New,"$41,770 ",4.6,1874,Platinum White Pearl,–,AWD,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB104635,NB104635,8,5,5,5,5,5,5,IL,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$48,005 ",4.6,1874,Radiant Red Metallic II,–,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F70PB012655,PB012655,10,5,4.8,4.8,4.2,5,5,IL,Dealer
-2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$25,990 ",4,9531,Silver,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F35JC008865,2002134248,37921,4.8,4.7,4.6,4.6,4.4,4.7,,
+2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$25,990 ",4,9531,Silver,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F35JC008865,2002134248,37921,4.8,4.7,4.6,4.6,4.4,4.7,,Individual
 2022,Honda,Pilot Sport,New,"$41,375 ",2.4,246,Obsidian Blue Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H34NB081452,L61064,3,5,5,5,5,5,5,IL,Dealer
 2022,Honda,Pilot Touring 7-Passenger,New,"$48,860 ",4.7,739,Deep Scarlet Pearl,Beige,AWD,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H6XNB094894,C17629,1,5,5,5,5,5,5,IL,Dealer
 2019,Honda,Pilot Touring 7-Passenger,Used,"$39,490 ",4.7,10,White Diamond Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H61KB036930,1330,35454,4.8,4.7,4.7,4.6,4.7,4.8,WI,Dealer
@@ -1301,7 +1301,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Sport,New,"$39,406 ",4.7,2376,Platinum White Pearl,–,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB086105,NB086105,14,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Accord Hybrid Sport,New,"$37,991 ",4.6,1959,Sonic Gray Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F24NA041551,NA041551,8,4.9,5,5,4.9,4.9,5,CA,Dealer
 2023,Honda,Odyssey Touring,New,"$45,895 ",5,1395,Obsidian Blue Pearl,Gray,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H8XPB030842,73819,27,5,5,4,4,4,5,AZ,Dealer
-2010,Honda,Odyssey EX-L,Used,"$15,990 ",4,9531,Blue,Black,Front-wheel Drive,17–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL3H70AB086057,2002177204,86383,4.6,4.4,4.3,4.3,4.4,4.6,,
+2010,Honda,Odyssey EX-L,Used,"$15,990 ",4,9531,Blue,Black,Front-wheel Drive,17–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL3H70AB086057,2002177204,86383,4.6,4.4,4.3,4.3,4.4,4.6,,Individual
 2022,Honda,Pilot Sport,New,"$37,159 ",4.8,1278,Crystal Black Pearl,Black,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H31NB037550,H22453,0,5,5,5,5,5,5,AZ,Dealer
 2023,Honda,Odyssey Elite,New,"$50,915 ",5,2459,Lunar Silver Metallic,Mocha,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H95PB024987,230064,0,5,5,4,4,4,5,NM,Dealer
 2022,Honda,Pilot Sport,New,"$39,406 ",4.6,175,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB100403,H0822093,1,5,5,5,5,5,5,OR,Dealer
@@ -1401,7 +1401,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Accord Hybrid Sport,New,"$32,990 ",5,619,Lunar Silver Metallic,Black,Front-wheel Drive,46–41,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,1HGCY2F59PA000413,230227,0,,,,,,,CA,Dealer
 2023,Honda,Accord EX,New,"$30,705 ",5,619,Canyon River Blue Metallic,Black,Front-wheel Drive,29–37,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,1HGCY1F34PA002188,230228,0,,,,,,,CA,Dealer
 2023,Honda,Civic EX,New,"$27,600 ",5,619,Platinum,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F76PH303636,7503636,10,,,,,,,CA,Dealer
-2009,Honda,CR-V EX-L,Used,"$16,990 ",4,9557,White,Gray,Front-wheel Drive,20–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE38759L018687,2002185740,61529,4.4,4.5,4.5,4.7,4.6,4.8,,
+2009,Honda,CR-V EX-L,Used,"$16,990 ",4,9557,White,Gray,Front-wheel Drive,20–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE38759L018687,2002185740,61529,4.4,4.5,4.5,4.7,4.6,4.8,,Individual
 2022,Honda,Passport TrailSport,New,"$43,265 ",4.9,333,Crystal Black Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H62NB030957,78630,6,5,5,4.9,5,4.9,5,NV,Dealer
 2023,Honda,Odyssey Elite,New,"$51,310 ",4.3,3504,Sonic Gray Pearl,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H9XPB025164,182046,11,5,5,4,4,4,5,AZ,Dealer
 2023,Honda,Pilot Touring,New,"$50,240 ",4.3,1905,Sonic Gray Pearl,–,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H77PB002815,230583,10,,,,,,,AZ,Dealer
@@ -1439,7 +1439,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2017,Honda,Odyssey EX-L,Used,"$23,018 ",5,2487,Modern Steel Metallic,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H60HB007340,P9335A,64200,4.8,4.6,4.8,4.6,4.7,4.8,IL,Dealer
 2020,Honda,Passport Touring,Used,"$33,600 ",5,4272,Obsidian Blue Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H92LB018086,HCCP370,21614,4.9,4.8,4.8,4.6,4.8,4.8,IL,Dealer
 2022,Honda,Pilot Sport,New,"$40,770 ",5,3543,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB104063,98405,3,5,5,5,5,5,5,IL,Dealer
-2015,Honda,CR-Z EX,Used,"$15,990 ",4,9545,Red,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI SOHC Hybrid,JHMZF1D65FS000999,2001735171,101023,4.5,4.7,4.7,4.9,4.9,5,,
+2015,Honda,CR-Z EX,Used,"$15,990 ",4,9545,Red,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI SOHC Hybrid,JHMZF1D65FS000999,2001735171,101023,4.5,4.7,4.7,4.9,4.9,5,,Individual
 2023,Honda,CR-V Hybrid Sport Touring,New,"$39,845 ",3.4,32,Lunar Silver Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H90PH800625,WN11405,12,5,3,4,4,5,5,WI,Dealer
 2017,Honda,Pilot Elite,Used,"$29,873 ",4.4,172,Modern Steel Metallic,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H05HB026647,22T627A,48201,4.8,4.7,4.7,4.6,4.7,4.7,MS,Dealer
 2023,Honda,Odyssey Elite,New,"$51,420 ",4.8,1732,Platinum White Pearl,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H95PB034516,P2121,1,5,5,4,4,4,5,IL,Dealer
@@ -1501,7 +1501,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic EX,New,"$26,645 ",4.6,407,–,–,Front-wheel Drive,33–42,Gasoline,Variable,4 Cylinder Engine,2HGFE1F76NH328081,C228081,65,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
 2022,Honda,Passport Elite,New,"$44,189 ",4.9,768,Platinum White Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H02NB029805,C229805,0,5,5,4.9,5,4.9,5,CA,Dealer
 2022,Honda,Pilot Elite,New,"$52,060 ",4.7,376,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H08NB098616,59923,4,5,5,5,5,5,5,CA,Dealer
-2022,Honda,Passport TrailSport,Used,"$42,799 ",4.9,7,White,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H61NB020971,7151U,3285,5,5,4.9,5,4.9,5,,
+2022,Honda,Passport TrailSport,Used,"$42,799 ",4.9,7,White,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H61NB020971,7151U,3285,5,5,4.9,5,4.9,5,,Individual
 2022,Honda,Insight Touring,Honda Certified,"$33,500 ",4.7,306,Silver,Black,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F96NE011802,D22-898A,21924,,,,,,,CA,Dealer
 2021,Honda,Odyssey EX-L,Honda Certified,"$34,694 ",3.9,719,Pacific Pewter Metallic,Black,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H79MB025702,25B12010,30581,5,5,4.9,4.8,4.8,5,CA,Dealer
 2020,Honda,Accord Touring,Used,"$28,773 ",4.8,80,White,Biege,Front-wheel Drive,22–32,Gasoline,10-SPEED A/T,4 Cylinder Engine,1HGCV2F93LA002177,S7918,53122,4.8,4.8,4.8,4.8,4.9,4.9,UT,Dealer
@@ -1525,7 +1525,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Sport,New,"$39,770 ",2.7,507,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H3XNB103843,H22799,7,5,5,5,5,5,5,MO,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,600 ",2.7,507,Deep Scarlet Pearl,Beige,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H23NB100970,H22781,2,5,5,5,5,5,5,MO,Dealer
 2010,Honda,Accord Crosstour EX-L,Used,"$7,983 ",4.7,447,Glacier Blue Metallic,–,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5J6TF1H5XAL002821,AL002821,174121,4.7,4.6,4.7,4.6,4.6,4.8,TX,Dealer
-2014,Honda,CR-V LX,Used,"$16,990 ",4,9531,Gray,Gray,All-wheel Drive,22–30,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM4H3XEH610368,2002102800,83263,4.5,4.5,4.5,4.5,4.6,4.7,,
+2014,Honda,CR-V LX,Used,"$16,990 ",4,9531,Gray,Gray,All-wheel Drive,22–30,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM4H3XEH610368,2002102800,83263,4.5,4.5,4.5,4.5,4.6,4.7,,Individual
 2022,Honda,HR-V EX,Used,"$28,885 ",3.8,3,Midnight Amethyst,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H50NM719367,L3043,9496,3.8,3.2,3.6,3.6,4.2,4.2,LA,Dealer
 2014,Honda,CR-V EX-L,Used,"$15,000 ",4.3,334,Polished Metal Metallic,Black,All-wheel Drive,22–30,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM4H77EH674791,53343A,101529,4.5,4.5,4.5,4.5,4.6,4.7,MO,Dealer
 2023,Honda,Odyssey Sport,New,"$45,045 ",4.7,328,Platinum White Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H74PB026891,233954,12,5,5,4,4,4,5,LA,Dealer
@@ -1601,7 +1601,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport SE,New,"$31,960 ",5,9,Still Night Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F41NA085626,821511,6,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot Sport,New,"$39,770 ",4.4,845,Gray,Black,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H3XNB039135,101985,2,5,5,5,5,5,5,CA,Dealer
 2019,Honda,Civic Si Base,Used,"$24,497 ",4.6,333,Lunar Silver Metallic,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC3A52KH750142,AP195B,56515,4.7,4.8,4.7,4.8,4.8,4.9,NV,Dealer
-2014,Honda,Accord EX-L,Used,"$16,990 ",4,9531,White,Parchment,Front-wheel Drive,26–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCT1B89EA004144,2002068119,100560,4.6,4.6,4.6,4.6,4.7,4.8,,
+2014,Honda,Accord EX-L,Used,"$16,990 ",4,9531,White,Parchment,Front-wheel Drive,26–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCT1B89EA004144,2002068119,100560,4.6,4.6,4.6,4.6,4.7,4.8,,Individual
 2014,Honda,Pilot EX-L w/ Navigation,Used,"$25,998 ",4.6,4,Gray,Black,Front-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF3H7XEB025372,23689076,47034,4.7,4.6,4.6,4.6,4.5,4.7,CA,Dealer
 2022,Honda,Pilot TrailSport,New,"$43,485 ",4.3,3504,Crystal Black Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H86NB099771,182033,12,5,5,5,5,5,5,AZ,Dealer
 2023,Honda,Civic Si,New,"$34,195 ",5,1164,Aegean Blue,Black / Red,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E5XPH471411,230244,0,,,,,,,AZ,Dealer
@@ -1701,7 +1701,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2014,Honda,Accord Plug-In Hybrid Base,Used,"$14,869 ",4.4,1014,Crystal Black Pearl,Gray,Front-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR5F77EC000635,EC000635P,120387,4.6,4.8,4.6,4.6,4.6,5,CA,Dealer
 2022,Honda,Pilot Sport,New,"$41,770 ",4.4,845,Gray,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H38NB104165,101924,2,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Civic EX-L,New,"$28,740 ",4.6,23,White,–,Front-wheel Drive,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H76NE018834,NE018834,15,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
-2018,Honda,CR-V LX,Used,"$22,990 ",4,9544,Gray,Black,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRW6H30JH223019,2002155209,55076,4.8,4.7,4.7,4.6,4.7,4.7,,
+2018,Honda,CR-V LX,Used,"$22,990 ",4,9544,Gray,Black,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRW6H30JH223019,2002155209,55076,4.8,4.7,4.7,4.6,4.7,4.7,,Individual
 2023,Honda,Civic Sport,New,"$27,400 ",4,9544,Boost Blue Pearl,Black,FWD,,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC,19XFL2G82PE004142,30441,–,,,,,,,CA,Dealer
 2023,Honda,Civic EX-L,New,Not Priced,4.8,1278,Meteorite Gray Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H75PE002210,H30402,0,,,,,,,AZ,Dealer
 2022,Honda,Pilot Special Edition,New,"$42,067 ",4.8,1278,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H29NB100178,H22414,0,5,5,5,5,5,5,AZ,Dealer
@@ -1801,7 +1801,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Si Base,New,"$29,195 ",4.8,3,Crystal Black Pearl,–,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E50PH471417,830233,6,,,,,,,CA,Dealer
 2021,Honda,Pilot Elite,Used,"$37,497 ",4.9,879,Gray,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H01MB002338,SMB002338,13441,4.9,4.8,4.8,4.7,4.7,4.8,CA,Dealer
 2021,Honda,Pilot Black Edition,Used,"$31,787 ",4.8,3,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H77MB002227,PC1112,68979,4.9,4.8,4.8,4.7,4.7,4.8,CA,Dealer
-2013,Honda,Civic LX,Used,"$15,990 ",4,9531,White,Beige,Front-wheel Drive,28–39,Gasoline,5-Speed Automatic,1.8L I4 16V MPFI SOHC,19XFB2F54DE040839,2002141247,47089,4.5,4.5,4.4,4.7,4.6,4.8,,
+2013,Honda,Civic LX,Used,"$15,990 ",4,9531,White,Beige,Front-wheel Drive,28–39,Gasoline,5-Speed Automatic,1.8L I4 16V MPFI SOHC,19XFB2F54DE040839,2002141247,47089,4.5,4.5,4.4,4.7,4.6,4.8,,Individual
 2022,Honda,Civic Sport,Used,"$26,998 ",4.9,530,Crystal Black Pearl,Black,Front-wheel Drive,30–37,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F50NH560289,59254,20739,4.6,4.9,4.4,4.6,4.6,4.7,AZ,Dealer
 2022,Honda,Pilot Sport,New,"$40,970 ",5,251,Obsidian Blue Pearl,Black,FWD,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H34NB034500,39792,6,5,5,5,5,5,5,CA,Dealer
 2023,Honda,CR-V EX,New,"$38,350 ",5,292,Canyon River Blue Metallic,B-640m/Black,Front-wheel Drive,28–34,Gasoline,continuously variable automatic,4 Cylinder Engine,7FARS3H44PE003560,H1413,6,5,5,5,4,4,5,CA,Dealer
@@ -1878,7 +1878,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot TrailSport,New,"$46,105 ",4.6,1504,Crystal Black Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H82NB086659,NB086659,20,5,5,5,5,5,5,FL,Dealer
 2022,Honda,Pilot Sport,New,"$41,770 ",5,3,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H35NB100364,CHS222161,3,5,5,5,5,5,5,NC,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$52,465 ",4.8,1,Modern Steel Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F79PB006160,Q10119,0,5,4.8,4.8,4.2,5,5,NC,Dealer
-2016,Honda,HR-V LX,Used,"$16,990 ",4,9531,Black,Black,Front-wheel Drive,28–35,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H3XGM730409,2002021793,94471,4.4,4.4,4.2,4.5,4.6,4.7,,
+2016,Honda,HR-V LX,Used,"$16,990 ",4,9531,Black,Black,Front-wheel Drive,28–35,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H3XGM730409,2002021793,94471,4.4,4.4,4.2,4.5,4.6,4.7,,Individual
 2023,Honda,Pilot EX-L 7-Passenger,New,"$46,150 ",4.9,2757,Platinum White Pearl,Gray,All-wheel Drive,19–25,Gasoline,Automatic,Premium Unleaded V-6 3.5 L/212,5FNYG1H59PB005178,H45352,0,,,,,,,FL,Dealer
 2022,Honda,Accord Touring 2.0T,New,"$38,445 ",5,1664,Platinum White Pearl,Ivory,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F90NA010742,35078,1311,5,5,5,5,5,5,VA,Dealer
 2023,Honda,CR-V EX-L,New,"$35,760 ",5,1664,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H71PH410944,35617,91,5,5,5,4,4,5,VA,Dealer
@@ -1886,7 +1886,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Odyssey Elite,New,"$51,310 ",5,771,Platinum,Beige,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H99PB033370,HP6024,2,5,5,4,4,4,5,VA,Dealer
 2022,Honda,Accord Sport 2.0T,New,"$34,755 ",5,2321,Platinum White Pearl,Black,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F39NA024229,H224890,3,5,5,5,5,5,5,DE,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$39,845 ",4.7,2504,Lunar Silver Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H9XPH801474,103714,1,5,3,4,4,5,5,PA,Dealer
-2018,Honda,CR-V EX-L,Used,"$29,590 ",4,9534,Beige,Sport,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW2H86JL019156,2002130984,11237,4.8,4.7,4.7,4.6,4.7,4.7,,
+2018,Honda,CR-V EX-L,Used,"$29,590 ",4,9534,Beige,Sport,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW2H86JL019156,2002130984,11237,4.8,4.7,4.7,4.6,4.7,4.7,,Individual
 2023,Honda,Passport TrailSport,New,"$44,895 ",4.4,124,Lunar Silver Metallic,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H62PB002482,PB002482,1,,,,,,,PA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,205 ",4.9,767,Lunar Silver Metallic,Gray,AWD,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H21NB101406,NB101406,5,5,5,5,5,5,5,NJ,Dealer
 2023,Honda,Ridgeline Black Edition,New,"$49,380 ",5,1571,Sonic Gray Pearl,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F82PB002427,H23052,11,5,4.8,4.8,4.2,5,5,NJ,Dealer
@@ -1901,7 +1901,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Si Base,New,"$29,590 ",4.6,1486,Platinum White Pearl,–,Front-wheel Drive,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E51PH471491,830232,6,,,,,,,CA,Dealer
 2023,Honda,CR-V EX,New,"$33,855 ",4.9,5490,Canyon,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H41PE009709,23H257,5,5,5,5,4,4,5,CA,Dealer
 2021,Honda,Civic Type R Limited Edition,New,Not Priced,1.6,76,White,–,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,0000000000TCFK810,RACECAR1,2,5,4.8,5,4.8,4.8,5,CA,Dealer
-2012,Honda,Crosstour EX,Used,"$16,990 ",4,9531,Gray,Black,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5J6TF1H34CL002573,2002010506,84972,4.8,4.7,4.7,4.6,4.7,4.8,,
+2012,Honda,Crosstour EX,Used,"$16,990 ",4,9531,Gray,Black,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5J6TF1H34CL002573,2002010506,84972,4.8,4.7,4.7,4.6,4.7,4.8,,Individual
 2019,Honda,Clarity Plug-In Hybrid Touring,Used,"$26,333 ",4.3,232,Solar Silver Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F3XKC004960,P64938,54910,4.9,4.9,4.9,5,4.7,5,CA,Dealer
 2022,Honda,Civic EX-L,New,"$28,740 ",4.6,7,Platinum,Black,FWD,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H71NE024024,H22080,7,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
 2017,Honda,Accord Hybrid EX-L,Used,"$18,500 ",4.5,890,–,–,Front-wheel Drive,49–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR6F55HC025073,33986A,73107,4.8,4.8,4.7,4.6,4.9,4.8,AZ,Dealer
@@ -1997,11 +1997,11 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Sport,New,"$26,545 ",4.7,537,Rallye Red,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,19XFL2H80PE003392,230060,–,,,,,,,CT,Dealer
 2023,Honda,Odyssey Touring,New,"$45,895 ",4.7,537,Modern Steel Metallic,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H87PB025825,230034,–,5,5,4,4,4,5,CT,Dealer
 2018,Honda,Civic Si,Used,"$24,998 ",4.8,2,Gray,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC3A53JH752660,22659219,56740,4.7,4.7,4.8,4.8,4.9,4.8,NH,Dealer
-2018,Honda,Civic Si,Used,"$24,998 ",4.8,2,,,,,,,,,,,,,,,,,,
+2018,Honda,Civic Si,Used,"$24,998 ",4.8,2,,,,,,,,,,,,,,,,,,Individual
 2012,Honda,Accord LX-P,Used,"$11,750 ",4.5,249,Gray,Gray,Front-wheel Drive,,5-Speed A/T,177.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,1HGCP2F46CA229037,"105,160 mi.",Adaptive Cruise Control,USB,4.4,4.4,4.5,4.6,4.5,4.7,CA,Individual
 2022,Honda,Pilot Touring 8-Passenger,New,"$46,465 ",4.9,79,Modern Steel Metallic,Black,Front-wheel Drive,20–27,Gasoline,Automatic,V6 Cylinder Engine,5FNYF5H67NB035649,N01675,5,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot Sport,New,"$41,375 ",4.4,845,Crystal Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H31NB102614,101792,2,5,5,5,5,5,5,CA,Dealer
-2019,Honda,HR-V Sport,Used,"$20,590 ",4,9531,Silver,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H1XKG705807,2002060955,67814,4.6,4.6,4.4,4.6,4.8,4.7,,
+2019,Honda,HR-V Sport,Used,"$20,590 ",4,9531,Silver,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H1XKG705807,2002060955,67814,4.6,4.6,4.4,4.6,4.8,4.7,,Individual
 2022,Honda,Passport TrailSport,New,"$44,496 ",4.8,104,Sonic Gray Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H69NB024489,NB024489,45,5,5,4.9,5,4.9,5,CA,Dealer
 2022,Honda,Pilot Sport,New,"$41,770 ",4.7,2376,Sonic Gray Pearl,–,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H32NB104307,NB104307,6,5,5,5,5,5,5,CA,Dealer
 2013,Honda,Civic Hybrid,Used,"$11,998 ",4.1,12,Gray,Beige,Front-wheel Drive,44–44,Hybrid,Automatic CVT,1.5L I4 8V MPFI SOHC Hybrid,19XFB4F22DE201495,W35525,105301,4.1,4.2,3.8,3.8,4.3,4.2,CA,Dealer
@@ -2101,7 +2101,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,HR-V Sport,New,"$29,040 ",4.6,9,Platinum White Pearl,–,All-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ2H50PM725253,830213,8,4,5,4,5,5,5,CA,Dealer
 2022,Honda,Accord Hybrid Sport,New,"$32,560 ",4.9,768,Still Night Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F21NA046836,C246836U,0,4.9,5,5,4.9,4.9,5,CA,Dealer
 2023,Honda,Ridgeline RTL-E,Used,"$44,543 ",4.4,1014,Sonic Gray Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F78PB005422,PB005422P,2836,5,4.8,4.8,4.2,5,5,CA,Dealer
-2015,Honda,Civic LX,Used,"$17,590 ",4,9563,Black,Black / Red,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,2HGFG3B5XFH514007,2002077371,43081,4.6,4.6,4.6,4.7,4.6,4.8,,
+2015,Honda,Civic LX,Used,"$17,590 ",4,9563,Black,Black / Red,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,2HGFG3B5XFH514007,2002077371,43081,4.6,4.6,4.6,4.7,4.6,4.8,,Individual
 2022,Honda,Pilot Special Edition,New,"$44,205 ",4.4,845,Lunar,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H27NB103533,101942,2,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot EX-L,New,"$42,000 ",4.4,845,Platinum White,Black,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H51NB038375,101919,2,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot Black Edition,New,"$51,998 ",5,7,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H74NB090056,H22074,3,5,5,5,5,5,5,CA,Dealer
@@ -2201,7 +2201,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,CR-V EX-L,Used,"$25,997 ",3.9,50,1,–,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW1H84LE001765,A34161,52137,4.9,4.8,4.8,4.8,4.9,4.9,CA,Dealer
 2023,Honda,Accord LX,New,"$28,845 ",5,619,Platinum White Pearl,Black,Front-wheel Drive,29–37,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,1HGCY1F21PA000437,230253,0,,,,,,,CA,Dealer
 2023,Honda,Civic EX,New,"$27,040 ",4.8,1780,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F74PH302971,PH302971,3,,,,,,,CA,Dealer
-2019,Honda,Pilot EX-L,Used,"$29,990 ",4,9531,Blue,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H51KB036556,2000645905,32542,4.8,4.7,4.7,4.6,4.7,4.8,,
+2019,Honda,Pilot EX-L,Used,"$29,990 ",4,9531,Blue,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H51KB036556,2000645905,32542,4.8,4.7,4.7,4.6,4.7,4.8,,Individual
 2020,Honda,Ridgeline Sport,Used,"$31,998 ",4.3,232,Gray,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F14LB017041,60393,15569,4.8,4.7,4.6,4.5,4.7,4.7,CA,Dealer
 2022,Honda,Pilot EX-L,New,"$42,000 ",4.9,79,Platinum White Pearl,Beige,Front-wheel Drive,20–27,Gasoline,Automatic,V6 Cylinder Engine,5FNYF5H59NB038026,O00230,3,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Accord Sport 2.0T,New,"$35,150 ",5,5,Still Night Pearl,Black,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F32NA024377,AC0385,10,5,5,5,5,5,5,NM,Dealer
@@ -2241,7 +2241,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic Sport,Used,"$27,991 ",5,1358,Boost Blue Pearl,Black,Front-wheel Drive,29–37,Gasoline,CVT,4 Cylinder Engine,19XFL2H83NE006798,HWZF29754,5028,4.6,4.9,4.4,4.6,4.6,4.7,WI,Dealer
 2003,Honda,Accord EX,Used,"$4,295 ",4.5,90,Gold,Tan,Front-wheel Drive,24–33,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,1HGCM56673A028940,28940,231321,4.5,4.5,4.5,4.6,4.3,4.5,IL,Dealer
 2019,Honda,Odyssey EX-L,Used,"$30,995 ",3.9,841,Pacific Pewter Metallic,Mocha,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H70KB108383,KB108383P,59825,4.8,4.6,4.5,4.3,4.7,4.5,WI,Dealer
-2019,Honda,Odyssey EX-L,Used,"$30,995 ",3.9,841,,,,,,,,,,,,,,,,,,
+2019,Honda,Odyssey EX-L,Used,"$30,995 ",3.9,841,,,,,,,,,,,,,,,,,,Individual
 2023,Honda,CR-V EX,New,"$34,405 ",4.5,1020,Crystal Black Pearl,Gray,All-wheel Drive,27–32,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,7FARS4H45PE013682,30270,3,5,5,5,4,4,5,IL,Dealer
 2023,Honda,Pilot Touring,New,"$50,350 ",4.8,1732,Sonic Gray Pearl,Black,AWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H7XPB006874,P2211,1,,,,,,,IL,Dealer
 2023,Honda,Odyssey EX-L,New,"$41,705 ",4.7,739,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H60PB014437,C17574,7,5,5,4,4,4,5,IL,Dealer
@@ -2270,7 +2270,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,Odyssey EX-L,Used,"$33,757 ",4.8,3031,Crystal Black Pearl,Mocha,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H78KB080509,080509SB1,34187,4.8,4.6,4.5,4.3,4.7,4.5,OH,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,600 ",5,580,Platinum White,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H29NB104540,21823,8,5,5,5,5,5,5,OH,Dealer
 2023,Honda,Odyssey Touring,New,"$46,290 ",4.4,401,Red,–,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H81PB027988,PB027988,3,5,5,4,4,4,5,PA,Dealer
-2009,Honda,Pilot EX-L,Used,"$5,289 ",4.5,86,Gray,–,Four-wheel Drive,16–22,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF48509B027125,5FNYF48509B027125,204296,4.6,4.4,4.3,4.4,4.3,4.7,,
+2009,Honda,Pilot EX-L,Used,"$5,289 ",4.5,86,Gray,–,Four-wheel Drive,16–22,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF48509B027125,5FNYF48509B027125,204296,4.6,4.4,4.3,4.4,4.3,4.7,,Individual
 2023,Honda,CR-V EX-L,New,"$35,005 ",4.9,6788,Lunar Silver Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H7XPH300355,913082,25,5,5,5,4,4,5,FL,Dealer
 2023,Honda,Ridgeline RTL,New,"$46,370 ",4.8,43,Pacific Pewter Metallic,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F58PB012031,H6666,6,5,4.8,4.8,4.2,5,5,VA,Dealer
 2018,Honda,Odyssey EX-L,Used,"$28,925 ",4.8,1278,White Diamond Pearl,Mocha,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H73JB030275,CHSS18010,41918,4.8,4.7,4.6,4.3,4.7,4.6,FL,Dealer
@@ -2401,7 +2401,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Odyssey EX-L,Used,"$36,495 ",4.9,5490,Silver Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H78LB052758,P7470,11869,4.8,4.8,4.7,4.6,4.7,4.7,CA,Dealer
 2023,Honda,CR-V Hybrid Sport,New,"$34,700 ",5,619,Urban Gray Pearl,Black,Front-wheel Drive,43–36,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,2HKRS5H5XPH703598,230234,0,5,3,4,4,5,5,CA,Dealer
 2022,Honda,Accord Hybrid Sport,New,"$32,165 ",5,619,Crystal Black Pearl,Black,Front-wheel Drive,44–41,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,1HGCV3F24NA047754,221322,0,4.9,5,5,4.9,4.9,5,CA,Dealer
-2013,Honda,Pilot EX,Used,"$17,990 ",4,9531,Silver,Gray,Front-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF3H43DB042941,2002134299,77853,4.6,4.5,4.4,4.6,4.4,4.7,,
+2013,Honda,Pilot EX,Used,"$17,990 ",4,9531,Silver,Gray,Front-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF3H43DB042941,2002134299,77853,4.6,4.5,4.4,4.6,4.4,4.7,,Individual
 2023,Honda,CR-V EX,New,"$34,250 ",5,619,Platinum White Pearl,Black,All-wheel Drive,27–32,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,2HKRS4H41PH406415,230120,0,5,5,5,4,4,5,CA,Dealer
 2021,Honda,Pilot EX-L,Used,"$32,999 ",4.3,232,Gray,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H54MB069284,P64287,37638,4.9,4.8,4.8,4.7,4.7,4.8,CA,Dealer
 2022,Honda,Pilot TrailSport,New,"$46,105 ",4.4,845,Crystal Black,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H86NB084588,100873,5,5,5,5,5,5,5,CA,Dealer
@@ -2556,7 +2556,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Accord EX-L,Honda Certified,"$26,383 ",4.6,1100,White,Black,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F54LA040041,HA24871A,30185,4.8,4.8,4.8,4.8,4.9,4.9,MI,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,240 ",2.2,338,Platinum White Pearl,Gray,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H97PH800797,900797,3,5,3,4,4,5,5,MI,Dealer
 2019,Honda,CR-V EX,Used,"$26,151 ",4.3,1641,Molten Lava Pearl,Black,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW2H55KL003490,TKL003490,61606,4.8,4.8,4.7,4.7,4.8,4.8,OH,Dealer
-2019,Honda,CR-V EX,Used,"$26,151 ",4.3,1641,,,,,,,,,,,,,,,,,,
+2019,Honda,CR-V EX,Used,"$26,151 ",4.3,1641,,,,,,,,,,,,,,,,,,Individual
 2018,Honda,Accord EX-L,Used,"$21,934 ",4.7,492,Crystal Black Pearl,Black,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F58JA116826,223101A,99188,4.8,4.8,4.7,4.7,4.8,4.8,GA,Dealer
 2021,Honda,Passport Touring,Used,"$39,477 ",4.8,125,Blue,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H93MB011651,5494,19703,4.9,4.7,4.8,4.6,4.8,4.8,OH,Dealer
 2008,Honda,Civic LX,Used,"$6,950 ",4.4,80,Gray,Grey,Front-wheel Drive,25–36,Gasoline,5-Speed Automatic,1.8L I4 16V MPFI SOHC,1HGFA16548L022496,22496,126163,4.2,4.4,4.3,4.5,4.5,4.7,OH,Dealer
@@ -2587,7 +2587,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Pilot Elite,New,"$53,830 ",5,6031,Radiant Red Metallic II,Black,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H86PB004807,42152-34,–,,,,,,,NY,Dealer
 2019,Honda,Ridgeline Sport,Used,"$29,344 ",4.2,90,Lunar Silver Metallic,Black,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F10KB049015,14934,37754,4.9,4.8,4.8,4.6,4.7,4.9,NY,Dealer
 2023,Honda,HR-V Sport,New,"$28,790 ",4.8,733,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ2H56PM700096,230001N,5,4,5,4,5,5,5,NY,Dealer
-2023,Honda,HR-V Sport,New,"$28,790 ",4.8,733,,,,,,,,,,,,,,,,,,
+2023,Honda,HR-V Sport,New,"$28,790 ",4.8,733,,,,,,,,,,,,,,,,,,Individual
 2022,Honda,Pilot Special Edition,New,"$44,600 ",2.8,178,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H2XNB105339,H6339,1,5,5,5,5,5,5,CT,Dealer
 2022,Honda,HR-V EX,Used,"$27,279 ",3.8,1,Aegean Blue Metallic,Black,All-wheel Drive,26–31,Gasoline,continuously variable w/sport mode,4 Cylinder Engine,3CZRU6H56NM734249,CU444A,14940,3.8,3.2,3.6,3.6,4.2,4.2,MA,Dealer
 2023,Honda,Civic Sport,New,"$26,145 ",4.9,1559,Lunar Silver Metallic,Black,FWD,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F5XPH520157,230188,15,,,,,,,CT,Dealer
@@ -2701,7 +2701,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Sport,New,"$41,770 ",4.8,582,Sonic Gray Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H39NB104224,NB104224,7,5,5,5,5,5,5,CA,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,600 ",4.9,79,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,Automatic,V6 Cylinder Engine,5FNYF6H24NB104381,N01785,5,5,5,5,5,5,5,CA,Dealer
 2020,Honda,Accord Hybrid EX,Used,"$30,895 ",4.6,114,White,Black,Front-wheel Drive,48–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F44LA011979,H11727,14928,4.7,4.8,4.5,4.6,4.7,4.8,CA,Dealer
-2020,Honda,Accord Sport 1.5T,Used,"$27,990 ",4,9545,White,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F34LA000511,2001747018,24441,4.8,4.8,4.8,4.8,4.9,4.9,,
+2020,Honda,Accord Sport 1.5T,Used,"$27,990 ",4,9545,White,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F34LA000511,2001747018,24441,4.8,4.8,4.8,4.8,4.9,4.9,,Individual
 2020,Honda,Civic LX,Used,"$21,998 ",4.9,3,White,Black,Front-wheel Drive,31–40,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H31LU413383,22868780,57378,4.8,4.8,4.9,4.8,4.9,4.9,CA,Dealer
 2023,Honda,Pilot EX-L 8-Passenger,New,"$43,245 ",4.7,2869,Crystal Black Pearl,Black,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG2H47PB000395,PB000395,2,,,,,,,CA,Dealer
 2022,Honda,Accord Hybrid Sport,Used,"$34,987 ",4.5,1324,Still Night Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F24NA021087,TEB22010,8431,4.9,5,5,4.9,4.9,5,NV,Dealer
@@ -2801,7 +2801,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic Sport Touring,New,"$31,145 ",4.7,393,Meteorite Gray Metallic,Gray,Front-wheel Drive,30–37,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H8XNE022765,821610,2,4.6,4.9,4.4,4.6,4.6,4.7,CA,Dealer
 2023,Honda,Civic EX,New,"$27,600 ",4.7,393,Platinum White Pearl,–,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F70PH303177,830241,6,,,,,,,CA,Dealer
 2018,Honda,Odyssey Elite,Used,"$33,981 ",4.3,471,Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H96JB031132,14039P,47876,4.8,4.7,4.6,4.3,4.7,4.6,CA,Dealer
-2015,Honda,Accord Hybrid Base,Used,"$19,990 ",4,9531,Blue,Black,Front-wheel Drive,50–45,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCR6F3XFA000888,2002117157,75166,4.7,4.7,4.6,4.6,4.8,4.8,,
+2015,Honda,Accord Hybrid Base,Used,"$19,990 ",4,9531,Blue,Black,Front-wheel Drive,50–45,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCR6F3XFA000888,2002117157,75166,4.7,4.7,4.6,4.6,4.8,4.8,,Individual
 2018,Honda,CR-V EX-L,Used,"$26,998 ",4.7,2,Black,Black,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW2H88JH640330,23864134,46553,4.8,4.7,4.7,4.6,4.7,4.7,CA,Dealer
 2016,Honda,CR-V LX,Used,"$22,998 ",4.6,16,Black,Black,All-wheel Drive,25–31,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,5J6RM4H35GL128464,23664040,45968,4.6,4.5,4.6,4.6,4.7,4.7,CA,Dealer
 2023,Honda,Passport EX-L,New,"$42,395 ",4.6,16,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H56PB006879,78808,7,,,,,,,NV,Dealer
@@ -2839,7 +2839,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Touring,New,"$31,140 ",3,52,Morning Mist Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 DOHC,2HGFE1F94PH300235,H43022,2,,,,,,,IL,Dealer
 2017,Honda,Pilot EX-L,Used,"$24,995 ",4.6,165,Gray,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H51HB031317,31317,51425,4.8,4.7,4.7,4.6,4.7,4.7,KY,Dealer
 2023,Honda,Civic Sport,New,"$26,145 ",4.5,950,Gray Metallic,Black,Front-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F52PH521139,S12306,4,,,,,,,IL,Dealer
-2015,Honda,Accord Sport,Used,"$17,590 ",4,9531,Burgundy,Black,Front-wheel Drive,26–35,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F50FA177010,2001964365,45656,4.7,4.6,4.7,4.7,4.7,4.8,,
+2015,Honda,Accord Sport,Used,"$17,590 ",4,9531,Burgundy,Black,Front-wheel Drive,26–35,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F50FA177010,2001964365,45656,4.7,4.6,4.7,4.7,4.7,4.8,,Individual
 2023,Honda,Ridgeline RTL,New,"$43,075 ",5,4272,Obsidian Blue Pearl,Gray,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F51PB014784,H30205,5,5,4.8,4.8,4.2,5,5,IL,Dealer
 2023,Honda,Passport TrailSport,New,"$45,080 ",5,4272,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H64PB002922,H30147,5,,,,,,,IL,Dealer
 2022,Honda,Civic Touring,New,"$30,245 ",4.6,1874,Lunar Silver Metallic,–,FWD,31–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F94NH328730,NH328730,8,4.6,4.9,4.4,4.6,4.6,4.7,IL,Dealer
@@ -2888,7 +2888,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic EX-L,New,"$28,740 ",4.1,321,Platinum White,Black,Front-wheel Drive,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H76NE023449,H20788A,10,4.6,4.9,4.4,4.6,4.6,4.7,MD,Dealer
 2021,Honda,Civic Sport,Used,"$23,800 ",5,3087,Platinum White Pearl,Black,Front-wheel Drive,29–37,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,2HGFC2F87MH528678,EP528678,23027,4.6,4.7,4.7,4.6,4.8,4.6,MD,Dealer
 2022,Honda,Pilot Special Edition,New,"$44,205 ",5,7,Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H27NB102415,50029,16,5,5,5,5,5,5,NY,Dealer
-2017,Honda,Ridgeline RTL-T,Used,"$28,590 ",4,9533,White,Beige,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F66HB026715,2002129423,70976,4.8,4.7,4.7,4.4,4.7,4.7,,
+2017,Honda,Ridgeline RTL-T,Used,"$28,590 ",4,9533,White,Beige,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F66HB026715,2002129423,70976,4.8,4.7,4.7,4.4,4.7,4.7,,Individual
 2021,Honda,Civic Type R Touring,Used,"$48,998 ",4.9,14,White,Red,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G78MU201673,23500525,11030,5,4.8,5,4.8,4.8,5,FL,Dealer
 2022,Honda,Passport Elite,New,"$50,413 ",4.9,536,Crystal Black Pearl,Black,All-wheel Drive,19–24,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FNYF8H04NB028090,H29447,0,5,5,4.9,5,4.9,5,DE,Dealer
 2023,Honda,Ridgeline Black Edition,New,"$48,985 ",4.6,652,Black,–,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F80PB016665,PB016665,5,5,4.8,4.8,4.2,5,5,NJ,Dealer
@@ -2970,7 +2970,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Passport Touring,Used,"$33,000 ",4.7,3314,Modern Steel Metallic,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H95LB006014,PLB006014,20363,4.9,4.8,4.8,4.6,4.8,4.8,OH,Dealer
 2001,Honda,Prelude,Used,"$12,995 ",4.6,19,Silver,Black,Front-wheel Drive,21–26,Gasoline,4-Speed Automatic,2.2L I4 16V MPFI DOHC,JHMBB62411C000612,BL-000612,68547,4.3,4.2,4.6,4.7,4.8,4.8,NC,Dealer
 2022,Honda,CR-V Touring,New,"$37,845 ",4.4,928,Silver Metallic,–,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H97NE044367,22044367,14,4.9,4.8,4.7,4.8,4.7,4.9,SC,Dealer
-2022,Honda,CR-V Touring,New,"$37,845 ",4.4,928,,,,,,,,,,,,,,,,,,
+2022,Honda,CR-V Touring,New,"$37,845 ",4.4,928,,,,,,,,,,,,,,,,,,Individual
 2023,Honda,Pilot EX-L 7-Passenger,New,"$48,145 ",4.7,2444,Platinum White Pearl,–,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI DOHC,5FNYG1H50PB004954,PB004954,5,,,,,,,FL,Dealer
 2020,Honda,Odyssey Elite,Used,"$38,826 ",5,844,Platinum White Pearl,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H95LB012171,T012171,44420,4.8,4.8,4.7,4.6,4.7,4.7,FL,Dealer
 2020,Honda,Odyssey EX-L w/Navigation/RES,Used,"$33,250 ",4.5,1045,Modern Steel Metallic,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H73LB040095,B040095T,30430,4.8,4.8,4.7,4.6,4.7,4.7,FL,Dealer
@@ -3001,7 +3001,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Odyssey EX-L,Honda Certified,"$34,888 ",4.7,393,Black,–,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H79LB031921,320155,34237,4.8,4.8,4.7,4.6,4.7,4.7,CA,Dealer
 2023,Honda,CR-V EX-L,New,"$35,400 ",4.9,5490,Platinum White Pearl,Gray,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS3H79PH300640,23H080,4,5,5,5,4,4,5,CA,Dealer
 2012,Honda,CR-V EX,Used,"$10,917 ",4.5,1,Silver,Beige,Front-wheel Drive,23–31,Gasoline,5-SPEED A/T,4 Cylinder Engine,JHLRM3H54CC013143,CC013143,143674,4.5,4.5,4.4,4.6,4.5,4.7,CA,Dealer
-2012,Honda,Odyssey LX,Used,"$15,990 ",4,9537,White,Tan,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H22CB049191,2002081186,100000,4.7,4.6,4.6,4.4,4.5,4.7,,
+2012,Honda,Odyssey LX,Used,"$15,990 ",4,9537,White,Tan,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H22CB049191,2002081186,100000,4.7,4.6,4.6,4.4,4.5,4.7,,Individual
 2022,Honda,Accord Hybrid Sport,New,"$32,560 ",4.4,736,Crystal Black Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F23NA044618,1222171A,3,4.9,5,5,4.9,4.9,5,CA,Dealer
 2023,Honda,CR-V EX-L,New,"$36,900 ",4.7,12,Mountain Air Metallic,Black,AWD,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RS4H73PL000085,5700085,–,5,5,5,4,4,5,CA,Dealer
 2023,Honda,Pilot EX-L 8-Passenger,New,"$43,750 ",1.2,70,Platinum White Pearl,Black,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG2H46PB001117,2901117,–,,,,,,,CA,Dealer
@@ -3097,7 +3097,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,Pilot EX,Used,"$23,565 ",4.2,90,Modern Steel Metallic,Gray,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H34JB004834,1964,94381,4.7,4.6,4.7,4.5,4.6,4.7,NY,Dealer
 2018,Honda,Civic Sport Touring,Used,"$25,888 ",4.8,1736,Sonic Gray Pearl,–,Front-wheel Drive,30–36,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H98JU410210,U35615,59805,4.7,4.7,4.8,4.8,4.9,4.8,NY,Dealer
 2023,Honda,CR-V EX,New,"$37,405 ",4.6,1493,Meteorite Gray Metallic,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H43PE007444,H230223,11,5,5,5,4,4,5,MA,Dealer
-2023,Honda,CR-V EX,New,"$37,405 ",4.6,1493,,,,,,,,,,,,,,,,,,
+2023,Honda,CR-V EX,New,"$37,405 ",4.6,1493,,,,,,,,,,,,,,,,,,Individual
 2020,Honda,Passport Touring,Honda Certified,"$32,558 ",5,7591,WHITE,Black,Front-wheel Drive,20–25,Gasoline,AUTOMATIC,V6 Cylinder Engine,5FNYF7H99LB001957,H230201A,39409,4.9,4.8,4.8,4.6,4.8,4.8,CA,Dealer
 2022,Honda,Pilot EX-L,New,"$42,000 ",5,9,Platinum White Pearl,Beige,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H50NB038027,821681,5,5,5,5,5,5,5,CA,Dealer
 2020,Honda,CR-V EX-L,Used,"$29,991 ",4.2,1034,Gray,Gray,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW1H8XLA000621,5P2650,34579,4.9,4.8,4.8,4.8,4.9,4.9,CA,Dealer
@@ -3201,7 +3201,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$26,906 ",4.7,4,Modern Steel Metallic,Black,Front-wheel Drive,0–0,Hybrid,e continuously variable (e cvt),4 Cylinder Engine,JHMZC5F31JC011391,JC011391P,44095,4.8,4.7,4.6,4.6,4.4,4.7,CA,Dealer
 2022,Honda,CR-V Touring,New,Not Priced,5,338,Modern Steel Metallic,Gray,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARW2H99NE045892,2555,5,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
 2023,Honda,Odyssey Touring,New,"$46,290 ",4.4,12,Radiant Red Metallic II,Beige,FWD,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H88PB034145,5734145,–,5,5,4,4,4,5,CA,Dealer
-2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$23,999 ",5,22425,Modern Steel Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F32JC002831,M377289,55217,4.8,4.7,4.6,4.6,4.4,4.7,,
+2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$23,999 ",5,22425,Modern Steel Metallic,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F32JC002831,M377289,55217,4.8,4.7,4.6,4.6,4.4,4.7,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$28,923 ",4.7,2713,Still Night Pearl,–,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F35NA089685,NA089685,9,5,5,5,5,5,5,CA,Dealer
 2021,Honda,Accord Hybrid EX-L,Honda Certified,"$33,571 ",4.5,333,Platinum White Pearl,Black,Front-wheel Drive,48–48,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F59MA020106,785441,14372,4.7,4.5,4.5,4.4,4.6,4.4,NV,Dealer
 2015,Honda,Pilot EX-L,Used,"$18,955 ",4.8,2619,Taffeta White,Gray,Front-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF3H50FB014056,Q2679,74208,4.8,4.7,4.7,4.8,4.6,4.9,AZ,Dealer
@@ -3287,7 +3287,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Pilot EX,Used,"$26,995 ",4.8,973,White,–,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H37LB023505,LB023505,39260,4.6,4.5,4.2,4.1,4.5,4.1,FL,Dealer
 2023,Honda,Civic Si Base,New,"$29,595 ",4.8,1678,Red,Red / Black,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E53PH471900,N471900,12,,,,,,,FL,Dealer
 2023,Honda,Odyssey Sport,New,"$42,705 ",5,4674,Crystal Black,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H7XPB036941,H34566,10,5,5,4,4,4,5,VA,Dealer
-2019,Honda,Passport Touring,Used,"$29,590 ",4,9534,Black,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H92KB000051,2001953838,55658,4.8,4.7,4.7,4.6,4.7,4.8,,
+2019,Honda,Passport Touring,Used,"$29,590 ",4,9534,Black,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H92KB000051,2001953838,55658,4.8,4.7,4.7,4.6,4.7,4.8,,Individual
 2007,Honda,Pilot EX-L,Used,"$5,799 ",4.9,33,Silver,Gray,Four-wheel Drive,17–22,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,2HKYF185X7H527631,MNV527631,193213,4.6,4.4,4.4,4.5,4.4,4.5,NJ,Dealer
 2023,Honda,Civic Sport Touring,New,"$32,040 ",4.2,1312,Boost Blue Pearl,Black,Front-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H87PE001276,23-0165,2,,,,,,,NY,Dealer
 2020,Honda,Pilot EX-L,Used,"$30,683 ",4.2,90,Platinum White Pearl,Black,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H54LB061121,225249A,42666,4.6,4.5,4.2,4.1,4.5,4.1,NY,Dealer
@@ -3301,7 +3301,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot EX-L,Used,"$37,999 ",4.9,879,Lunar Silver Metallic,Gray,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H54NB007864,TNB007864,11709,5,5,5,5,5,5,CA,Dealer
 2022,Honda,CR-V EX,New,"$30,555 ",4.9,3669,Crystal Black Pearl,Black,Front-wheel Drive,28–34,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,7FARW1H54NE017229,221263,0,4.9,4.8,4.7,4.8,4.7,4.9,CA,Dealer
 2022,Honda,Accord Sport 1.5T,New,"$29,371 ",4.7,1932,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F36NA116361,NA116361,8,5,5,5,5,5,5,NV,Dealer
-2001,Honda,S2000,Used,"$31,698 ",4.8,28,Yellow,Black,Rear-wheel Drive,20–26,Gasoline,Manual,Gas I4 2.0L/121.9,JHMAP11411T007254,54AG157P,33276,4.1,4.4,5,4.9,5,5,,
+2001,Honda,S2000,Used,"$31,698 ",4.8,28,Yellow,Black,Rear-wheel Drive,20–26,Gasoline,Manual,Gas I4 2.0L/121.9,JHMAP11411T007254,54AG157P,33276,4.1,4.4,5,4.9,5,5,,Individual
 2022,Honda,Pilot Sport,New,"$41,770 ",5,0,Platinum White Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H30NB098698,H98698,5,5,5,5,5,5,5,CA,Dealer
 2017,Honda,Civic EX,Used,"$20,998 ",4.8,2,Purple,Gray,Front-wheel Drive,31–40,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,19XFC2F83HE212226,23664287,80371,4.7,4.7,4.8,4.8,4.8,4.8,CA,Dealer
 2023,Honda,Pilot Sport,New,"$42,940 ",4.8,2,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H38PB002061,78821,93,,,,,,,NV,Dealer
@@ -3381,7 +3381,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Special Edition,New,"$40,205 ",5,6877,Modern Steel Metallic,Black,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H29NB026318,NB026318,7,5,5,5,5,5,5,FL,Dealer
 2013,Honda,Ridgeline Sport,Used,"$18,000 ",4.7,2504,–,–,Four-wheel Drive,15–21,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FPYK1F70DB003163,H22655,91865,4.8,4.5,4.6,4.6,4.6,4.9,PA,Dealer
 2015,Honda,CR-V EX,Used,"$17,599 ",5,756,–,–,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRM4H52FH702254,23640A,90178,4.4,4.4,4.3,4.3,4.6,4.5,NY,Dealer
-2019,Honda,Passport EX-L,Used,"$28,590 ",4,9534,Black,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H50KB024156,2002002167,50173,4.8,4.7,4.7,4.6,4.7,4.8,,
+2019,Honda,Passport EX-L,Used,"$28,590 ",4,9534,Black,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H50KB024156,2002002167,50173,4.8,4.7,4.7,4.6,4.7,4.8,,Individual
 2022,Honda,Ridgeline RTL-E,Honda Certified,"$41,428 ",4.1,1498,Pacific Pewter Metallic,Black,All-wheel Drive,18–24,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FPYK3F79NB012716,52006A,14166,5,4.9,4.9,4.3,4.7,5,NJ,Dealer
 2022,Honda,CR-V EX-L,Used,"$33,496 ",4.8,2,Radiant Red Metallic,Gray,All-wheel Drive,27–32,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW2H87NH626585,MU2579A,18772,4.9,4.8,4.7,4.8,4.7,4.9,NY,Dealer
 2023,Honda,Civic Si Base,New,"$29,195 ",4.8,4583,Aegean Blue Metallic,Black / Red,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E58PH471536,PH471536,4,,,,,,,NJ,Dealer
@@ -3401,7 +3401,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2019,Honda,Insight Touring,Used,"$27,277 ",4.3,232,Black,Black,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F95KE020079,P64691,16793,4.6,4.8,4.5,4.7,4.8,4.8,CA,Dealer
 2023,Honda,Civic EX-L,New,"$28,845 ",4.8,1452,Meteorite Gray Metallic,–,FWD,,Gasoline,Automatic CVT,1.5L 4 Cylinder,19XFL1H72PE002133,PE002133,5,,,,,,,CA,Dealer
 2018,Honda,Odyssey Touring,Used,"$29,998 ",4.6,0,Green,Beige,FWD,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H86JB037469,23757931,69766,4.8,4.7,4.6,4.3,4.7,4.6,CA,Dealer
-2011,Honda,Odyssey EX,Used,"$15,990 ",4,9531,Beige,Beige,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H48BB004627,2002006255,85576,4.8,4.7,4.5,4.4,4.6,4.6,,
+2011,Honda,Odyssey EX,Used,"$15,990 ",4,9531,Beige,Beige,Front-wheel Drive,18–27,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H48BB004627,2002006255,85576,4.8,4.7,4.5,4.4,4.6,4.6,,Individual
 2022,Honda,Accord Hybrid Touring,New,"$38,685 ",5,12,Crystal Black Pearl,Black,FWD,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F9XNA040210,5740210A,–,4.9,5,5,4.9,4.9,5,CA,Dealer
 2016,Honda,Pilot EX-L w/ Navigation,Used,"$24,500 ",4.9,72,Crystal Black Pearl,Black,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H79GB024633,24633,44960,4.7,4.6,4.5,4.4,4.6,4.6,AZ,Dealer
 2017,Honda,Ridgeline Black Edition,Used,"$28,700 ",4.7,48,Crystal Black Pearl,Black / Red,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F83HB031436,16566,87797,4.8,4.7,4.7,4.4,4.7,4.7,CA,Dealer
@@ -3427,7 +3427,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2018,Honda,Accord Sport,Used,"$22,895 ",4.8,0,White,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F32JA242372,1328P,69458,4.8,4.8,4.7,4.7,4.8,4.8,MO,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$39,845 ",4.6,527,Meteorite Gray Metallic,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H97PE001797,PE001797,5,5,3,4,4,5,5,TX,Dealer
 2022,Honda,Civic Sport Touring,Used,"$29,990 ",4.7,2422,Boost Blue Pearl,Gray,Front-wheel Drive,30–37,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFL1H86NE007664,PW588808A,16079,4.6,4.9,4.4,4.6,4.6,4.7,MO,Dealer
-2018,Honda,Accord Hybrid Base,Used,"$24,990 ",4,9531,White,–,Front-wheel Drive,47–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F12JA000806,2002191534,50286,4.7,4.9,4.5,4.5,4.9,4.9,,
+2018,Honda,Accord Hybrid Base,Used,"$24,990 ",4,9531,White,–,Front-wheel Drive,47–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F12JA000806,2002191534,50286,4.7,4.9,4.5,4.5,4.9,4.9,,Individual
 2019,Honda,CR-V LX,Honda Certified,"$31,290 ",4.7,178,–,–,Front-wheel Drive,26–32,Gasoline,continuously variable w/sport mode,4 Cylinder Engine,5J6RW5H39KL003508,P10342,41606,4.8,4.8,4.7,4.7,4.8,4.8,MO,Dealer
 2020,Honda,Pilot EX-L,Used,"$30,999 ",4.5,1627,Deep Scarlet Pearl,Beige,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H59LB028860,LB028860P,49171,4.6,4.5,4.2,4.1,4.5,4.1,IA,Dealer
 2019,Honda,Ridgeline RTL-T,Used,"$28,760 ",3.9,213,Gray,–,All-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F66KB026687,KB026687,54613,4.9,4.8,4.8,4.6,4.7,4.9,MO,Dealer
@@ -3482,7 +3482,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,CR-V Hybrid Sport Touring,New,"$45,395 ",5,2871,Meteorite,Gray,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,7FARS6H99PE005804,M3005804,–,5,3,4,4,5,5,MD,Dealer
 2018,Honda,Civic Type R Touring,Used,"$37,300 ",4.7,0,Championship White,Red / Black,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G71JU201834,L43850A,52076,4.5,4.7,4.9,4.7,4.7,4.8,MD,Dealer
 2023,Honda,CR-V EX-L,New,"$36,505 ",5,2068,Meteorite,Gray,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRS4H7XPH401966,230054,4,5,5,5,4,4,5,MD,Dealer
-2016,Honda,CR-V EX-L,Used,"$21,990 ",4,9531,Gray,Beige,Front-wheel Drive,26–33,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRM3H79GH520113,2001658226,64185,4.6,4.5,4.6,4.6,4.7,4.7,,
+2016,Honda,CR-V EX-L,Used,"$21,990 ",4,9531,Gray,Beige,Front-wheel Drive,26–33,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRM3H79GH520113,2001658226,64185,4.6,4.5,4.6,4.6,4.7,4.7,,Individual
 2023,Honda,Ridgeline RTL,New,"$43,075 ",4.1,321,Obsidian Blue Pearl,Gray,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F56PB016305,H30103,3,5,4.8,4.8,4.2,5,5,MD,Dealer
 2014,Honda,Odyssey Touring,Used,"$14,900 ",4.5,434,Silver,–,Front-wheel Drive,19–28,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H95EB096439,AP2308,128046,4.7,4.6,4.6,4.4,4.6,4.8,FL,Dealer
 2019,Honda,CR-V EX-L,Honda Certified,"$26,650 ",4.7,502,Crystal Black Pearl,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,5J6RW1H8XKA014579,053437A,29867,4.8,4.8,4.7,4.7,4.8,4.8,FL,Dealer
@@ -3501,7 +3501,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot Sport,New,"$41,375 ",5,9,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H31NB102581,821674,4,5,5,5,5,5,5,CA,Dealer
 2021,Honda,CR-V EX-L,Used,"$36,998 ",4.9,0,Gray,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW1H85MH422912,23211919,8359,4.9,4.8,4.8,4.8,4.9,4.9,CA,Dealer
 2022,Honda,Pilot Touring 8-Passenger,New,"$45,895 ",4.9,79,Modern Steel Metallic,Black,Front-wheel Drive,20–27,Gasoline,Automatic,V6 Cylinder Engine,5FNYF5H66NB015702,41159-01,0,5,5,5,5,5,5,CA,Dealer
-2016,Honda,Pilot Touring,Used,"$27,990 ",4,9531,Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H95GB071004,2001976731,75074,4.7,4.6,4.5,4.4,4.6,4.6,,
+2016,Honda,Pilot Touring,Used,"$27,990 ",4,9531,Black,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H95GB071004,2001976731,75074,4.7,4.6,4.5,4.4,4.6,4.6,,Individual
 2016,Honda,CR-V LX,Used,"$19,897 ",4.6,387,Black,Black,Front-wheel Drive,26–33,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,2HKRM3H36GH503797,1010194769,71592,4.6,4.5,4.6,4.6,4.7,4.7,CA,Dealer
 2023,Honda,Odyssey Touring,New,"$45,945 ",4.7,1932,Lunar Silver Metallic,Mocha,Front-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNRL6H87PB037392,PB037392,7,5,5,4,4,4,5,NV,Dealer
 2021,Honda,CR-V EX,Used,"$29,499 ",4.9,0,Platinum White Pearl,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HKRW1H50MH409815,MH409815,9054,4.9,4.8,4.8,4.8,4.9,4.9,CA,Dealer
@@ -3561,7 +3561,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Passport Elite,Used,"$36,961 ",4.7,1714,White,–,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H00LB007802,LB007802,21736,4.9,4.8,4.8,4.6,4.8,4.8,FL,Dealer
 2019,Honda,Passport Sport,Used,"$26,994 ",4.9,6788,Modern Steel Metallic,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H26KB011783,913281A,10340,4.8,4.7,4.7,4.6,4.7,4.8,FL,Dealer
 2021,Honda,Pilot EX,Used,"$28,494 ",4.5,348,Lunar Silver Metallic,Gray,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H37MB034554,MB034554T,33441,4.9,4.8,4.8,4.7,4.7,4.8,FL,Dealer
-2012,Honda,CR-V EX-L,Used,"$16,590 ",4,9535,Green,Black,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM3H75CH513153,2002139421,89241,4.5,4.5,4.4,4.6,4.5,4.7,,
+2012,Honda,CR-V EX-L,Used,"$16,590 ",4,9535,Green,Black,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM3H75CH513153,2002139421,89241,4.5,4.5,4.4,4.6,4.5,4.7,,Individual
 2023,Honda,CR-V EX-L,New,"$36,505 ",4.4,880,Lunar Silver,–,All-wheel Drive,,Gasoline,Automatic,1.5L I4 16V GDI DOHC Turbo,5J6RS4H78PL003094,91225,0,5,5,5,4,4,5,NC,Dealer
 2018,Honda,HR-V LX,Used,"$15,594 ",4.3,24,Black,–,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H31JM705681,3006,89125,4.7,4.5,4.7,4.6,4.8,4.8,FL,Dealer
 2021,Honda,Civic Sport,Used,"$20,500 ",4.9,1055,Black,–,Front-wheel Drive,29–37,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,2HGFC2F8XMH540601,10147,42227,4.6,4.7,4.7,4.6,4.8,4.6,FL,Dealer
@@ -3584,10 +3584,10 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2016,Honda,Fit LX,Used,"$16,998 ",4.7,2284,Red,–,Front-wheel Drive,33–41,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,JHMGK5H53GX013573,GX013573,28023,4.2,4.5,4.4,4.6,4.5,4.7,FL,Dealer
 2020,Honda,Pilot Touring 8-Passenger,Used,"$28,143 ",4.7,2284,Modern Steel Metallic,–,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H9XLB012583,LB012583,69064,4.6,4.5,4.2,4.1,4.5,4.1,FL,Dealer
 2017,Honda,Fit LX,Used,"$16,993 ",2.5,153,Black,–,Front-wheel Drive,33–40,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,JHMGK5H54HS002855,W403739B,20818,4.5,4.5,4.5,4.6,4.6,4.8,FL,Dealer
-2020,Honda,Pilot EX,Used,"$27,399 ",5,22428,Lunar Silver Metallic,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H37LB024332,M377604,32948,4.6,4.5,4.2,4.1,4.5,4.1,,
+2020,Honda,Pilot EX,Used,"$27,399 ",5,22428,Lunar Silver Metallic,Gray,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H37LB024332,M377604,32948,4.6,4.5,4.2,4.1,4.5,4.1,,Individual
 2021,Honda,Civic Type R Limited Edition,Used,"$69,980 ",4.9,0,Phoenix Yellow,Black/Red,Front-wheel Drive,22–28,Gasoline,6-SPEED M/T,4 Cylinder Engine,SHHFK8G08MU203958,203958,700,5,4.8,5,4.8,4.8,5,FL,Dealer
 2014,Honda,Ridgeline SE,Used,"$22,995 ",4.6,43,Crystal Black Pearl,Black,Four-wheel Drive,15–21,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FPYK1F60EB014771,P3980,88337,4.8,4.5,4.6,4.6,4.6,4.8,PA,Dealer
-2017,Honda,Accord Hybrid Touring,Used,"$29,590 ",4,9534,Gray,Beige,Front-wheel Drive,49–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR6F73HC017538,2002106117,14946,4.8,4.8,4.7,4.6,4.9,4.8,,
+2017,Honda,Accord Hybrid Touring,Used,"$29,590 ",4,9534,Gray,Beige,Front-wheel Drive,49–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR6F73HC017538,2002106117,14946,4.8,4.8,4.7,4.6,4.9,4.8,,Individual
 2023,Honda,Odyssey Touring,New,"$44,735 ",5,7833,–,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H84PB034952,T0560,6,5,5,4,4,4,5,NY,Dealer
 2019,Honda,Odyssey EX-L w/Navigation/RES,Used,"$30,794 ",4.2,90,Crystal Black Pearl,Mocha,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H71KB118159,232071A,37711,4.8,4.6,4.5,4.3,4.7,4.5,NY,Dealer
 2021,Honda,Pilot EX-L,Used,"$34,585 ",4.2,90,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H51MB018843,220742A,44983,4.9,4.8,4.8,4.7,4.7,4.8,NY,Dealer
@@ -3901,7 +3901,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,HR-V Sport,New,"$27,145 ",5,619,Crystal Black Pearl,Black,Front-wheel Drive,26–32,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,3CZRZ1H52PM722767,230159,0,4,5,4,5,5,5,CA,Dealer
 2023,Honda,Civic Si Sedan,New,"$30,050 ",5,619,Platinum White Pearl,Black/Red,Front-wheel Drive,27–37,Gasoline,Manual,Intercooled Turbo Premium Unleaded I-4 1.5 L/91,2HGFE1E58PH471990,230263,0,,,,,,,CA,Dealer
 2016,Honda,Accord LX,Used,"$17,399 ",4.7,54,–,–,Front-wheel Drive,27–37,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F30GA217103,R55508A,92698,4.8,4.7,4.7,4.7,4.8,4.8,CA,Dealer
-2017,Honda,Civic EX-T,Used,"$19,990 ",4,9545,Silver,Black,Front-wheel Drive,32–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFC1F30HE212814,2001789726,57367,4.7,4.7,4.8,4.8,4.8,4.8,,
+2017,Honda,Civic EX-T,Used,"$19,990 ",4,9545,Silver,Black,Front-wheel Drive,32–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,19XFC1F30HE212814,2001789726,57367,4.7,4.7,4.8,4.8,4.8,4.8,,Individual
 2023,Honda,Ridgeline RTL-E,New,"$43,080 ",4.8,7,Platinum,Black,All-wheel Drive,,Gasoline,–,3.5L V6 24V GDI SOHC,5FPYK3F77PB009283,H23004,0,5,4.8,4.8,4.2,5,5,CA,Dealer
 2020,Honda,Odyssey EX-L,Used,"$33,555 ",4.7,0,Crystal Black Pearl,Mocha,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H73LB042557,PH42557Z,34064,4.8,4.8,4.7,4.6,4.7,4.7,CA,Dealer
 2023,Honda,Civic Si Base,New,"$30,050 ",4.7,0,Sonic Gray Pearl,Black / Red,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E54PH471744,5771744,–,,,,,,,CA,Dealer
@@ -3984,7 +3984,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Civic Si Base,Used,"$30,888 ",3.4,623,Orange,Black / Red,Front-wheel Drive,27–37,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E50NH471818,471818,15102,4.2,4,4.5,4.2,4.5,5,VA,Dealer
 2020,Honda,Pilot Touring 8-Passenger,Used,"$34,420 ",4.1,1166,Modern Steel Metallic,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H95LB039633,LB039633,35179,4.6,4.5,4.2,4.1,4.5,4.1,MD,Dealer
 2013,Honda,CR-V EX,Used,"$13,995 ",5,65,Gray,Gray,All-wheel Drive,22–30,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RM4H50DL045845,5845,102000,4.5,4.5,4.5,4.5,4.5,4.6,NY,Dealer
-2013,Honda,Fit Sport,Used,"$15,590 ",4,9534,Red,Black,Front-wheel Drive,27–33,Gasoline,5-Speed Automatic,1.5L I4 16V MPFI SOHC,JHMGE8H55DC062057,2001988490,51690,4.3,4.5,4.3,4.8,4.5,4.8,,
+2013,Honda,Fit Sport,Used,"$15,590 ",4,9534,Red,Black,Front-wheel Drive,27–33,Gasoline,5-Speed Automatic,1.5L I4 16V MPFI SOHC,JHMGE8H55DC062057,2001988490,51690,4.3,4.5,4.3,4.8,4.5,4.8,,Individual
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$21,877 ",3.5,67,Silver,–,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F39JC006732,FH5824,63290,4.8,4.7,4.6,4.6,4.4,4.7,VA,Dealer
 2013,Honda,Accord Sport,Used,"$14,550 ",4.5,389,Champagne Frost Pearl,Black,Front-wheel Drive,26–35,Gasoline,CVT TRANSMISSION,4 Cylinder Engine,1HGCR2F50DA071976,71976,84438,4.4,4.4,4.5,4.5,4.6,4.6,PA,Dealer
 2023,Honda,Ridgeline RTL,New,"$43,075 ",4.7,4911,Crystal Black Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F53PB016875,PB016875,15,5,4.8,4.8,4.2,5,5,NJ,Dealer
@@ -4001,7 +4001,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Touring,New,"$31,145 ",5,619,Meteorite Gray Metallic,Black,Front-wheel Drive,31–38,Gasoline,Variable,Intercooled Turbo Premium Unleaded I-4 1.5 L/91,2HGFE1F9XPH304869,230241,0,,,,,,,CA,Dealer
 2023,Honda,Ridgeline RTL,Honda Certified,"$38,718 ",4.4,1014,Radiant Red Metallic II,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F57PB002235,PB002235A,790,5,4.8,4.8,4.2,5,5,CA,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,395 ",4.9,79,Canyon River Blue Metallic,Black,All-wheel Drive,40–34,Hybrid,Variable,4 Cylinder Engine,2HKRS6H92PH804594,41194-03,0,5,3,4,4,5,5,CA,Dealer
-2010,Honda,CR-V LX,Used,"$15,590 ",4,9531,Silver,Beige,Front-wheel Drive,21–28,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE3H37AL018336,2002126625,62416,4.5,4.6,4.4,4.7,4.5,4.8,,
+2010,Honda,CR-V LX,Used,"$15,590 ",4,9531,Silver,Beige,Front-wheel Drive,21–28,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE3H37AL018336,2002126625,62416,4.5,4.6,4.4,4.7,4.5,4.8,,Individual
 2018,Honda,Odyssey Touring,Used,"$31,524 ",4,1230,Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H89JB006278,P9447,41279,4.8,4.7,4.6,4.3,4.7,4.6,CA,Dealer
 2020,Honda,Insight Touring,Honda Certified,"$27,465 ",5,1291,Crystal Black Pearl,Black,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F90LE007483,P28419,51760,4.5,4.8,4.5,4.8,4.9,5,CA,Dealer
 2023,Honda,Ridgeline Black Edition,New,"$49,791 ",4.6,1959,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FPYK3F89PB006233,PB006233,8,5,4.8,4.8,4.2,5,5,CA,Dealer
@@ -4101,7 +4101,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot EX-L,New,"$42,000 ",5,9,Platinum White Pearl,Black,Front-wheel Drive,20–27,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H59NB038396,821680,5,5,5,5,5,5,5,CA,Dealer
 2019,Honda,HR-V EX-L,Used,"$24,995 ",4.6,1,–,–,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H76KM720262,1335,21172,4.6,4.6,4.4,4.6,4.8,4.7,CA,Dealer
 2020,Honda,Odyssey EX-L,Honda Certified,"$32,519 ",4.4,1014,Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H70LB017597,LB017597A,31599,4.8,4.8,4.7,4.6,4.7,4.7,CA,Dealer
-2017,Honda,HR-V LX,Used,"$18,990 ",4,9531,Blue,Gray,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H3XHG702917,2002190804,63975,4.6,4.4,4.4,4.5,4.7,4.7,,
+2017,Honda,HR-V LX,Used,"$18,990 ",4,9531,Blue,Gray,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H3XHG702917,2002190804,63975,4.6,4.4,4.4,4.5,4.7,4.7,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$29,371 ",4.7,1932,Sonic Gray Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F31NA092437,NA092437,9,5,5,5,5,5,5,NV,Dealer
 2016,Honda,Pilot EX,Used,"$21,995 ",4.7,2376,Modern Steel Metallic,–,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H33GB012684,GB012684,61738,4.7,4.6,4.5,4.4,4.6,4.6,CA,Dealer
 2022,Honda,Civic Si Base,New,"$28,595 ",4.5,23,Crystal Black Pearl,–,Front-wheel Drive,27–37,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E55NH477338,NH47738,15,4.2,4,4.5,4.2,4.5,5,CA,Dealer
@@ -4201,7 +4201,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,300 ",4.9,879,Platinum White Pearl,Black,All-wheel Drive,,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H91PH804747,PH804747,1,5,3,4,4,5,5,CA,Dealer
 2022,Honda,Pilot TrailSport,New,"$43,501 ",4.8,1780,Sonic Gray Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H87NB091629,NB091629,3,5,5,5,5,5,5,CA,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,850 ",4.7,1108,Red,Black,All-wheel Drive,,Hybrid,–,2.0L I4 16V GDI DOHC Hybrid,2HKRS6H98PH806317,422614,0,5,3,4,4,5,5,CA,Dealer
-2022,Honda,Civic EX,Used,"$28,590 ",4,9532,White,Black,Front-wheel Drive,33–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F76NH319610,2001941637,5707,4.6,4.9,4.4,4.6,4.6,4.7,,
+2022,Honda,Civic EX,Used,"$28,590 ",4,9532,White,Black,Front-wheel Drive,33–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFE1F76NH319610,2001941637,5707,4.6,4.9,4.4,4.6,4.6,4.7,,Individual
 2019,Honda,Insight LX,Used,"$16,979 ",4.1,27,Black,Black,Front-wheel Drive,55–49,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F18KE014626,U9635,133972,4.6,4.8,4.5,4.7,4.8,4.8,CA,Dealer
 2021,Honda,Odyssey EX-L,Honda Certified,"$37,663 ",4.6,114,Gray,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H79MB043987,H115740A,23867,5,5,4.9,4.8,4.8,5,CA,Dealer
 2016,Honda,Odyssey EX,Used,"$20,364 ",4.3,1063,Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H41GB145773,GB145773P,68199,4.8,4.6,4.7,4.6,4.7,4.8,CA,Dealer
@@ -4257,7 +4257,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2021,Honda,Pilot EX-L,Honda Certified,"$34,945 ",4.9,525,Gray,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H5XMB088728,H56220A,35404,4.9,4.8,4.8,4.7,4.7,4.8,IL,Dealer
 2019,Honda,HR-V EX,Used,"$25,995 ",4.6,52,Black,Gray,All-wheel Drive,26–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H5XKM737506,22176C,43039,4.6,4.6,4.4,4.6,4.8,4.7,IL,Dealer
 2021,Honda,Civic Type R Touring,Used,"$41,425 ",4.6,1874,Boost Blue Pearl,–,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G77MU202037,MU202037,27884,5,4.8,5,4.8,4.8,5,IL,Dealer
-2017,Honda,Pilot EX-L,Used,"$25,590 ",4,9531,Silver,Black,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H85HB005393,2002171368,73500,4.8,4.7,4.7,4.6,4.7,4.7,,
+2017,Honda,Pilot EX-L,Used,"$25,590 ",4,9531,Silver,Black,Front-wheel Drive,19–27,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF5H85HB005393,2002171368,73500,4.8,4.7,4.7,4.6,4.7,4.7,,Individual
 2017,Honda,Pilot EX-L,Honda Certified,"$25,194 ",3.9,161,Obsidian Blue Pearl,Gray,All-wheel Drive,18–26,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FNYF6H55HB055576,62330A,62001,4.8,4.7,4.7,4.6,4.7,4.7,WI,Dealer
 2019,Honda,Pilot Touring 7-Passenger,Honda Certified,"$34,633 ",4.8,1053,White,Beige,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H68KB055510,7833Q,33557,4.8,4.7,4.7,4.6,4.7,4.8,IN,Dealer
 2014,Honda,Civic LX,Used,"$17,897 ",4.9,198,Brown,–,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,2HGFB2F59EH526926,1546,52835,4.5,4.5,4.5,4.6,4.6,4.8,AL,Dealer
@@ -4267,7 +4267,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2021,Honda,Civic Sport,Used,"$25,986 ",5,2634,Modern Steel Metallic,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H47MU231763,22H1181B,21756,4.6,4.7,4.7,4.6,4.8,4.6,IN,Dealer
 2018,Honda,Civic Type R Touring,Used,"$33,800 ",4.5,101,Crystal Black Pearl,Red / Black,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G70JU201050,STK01050T,83134,4.5,4.7,4.9,4.7,4.7,4.8,IN,Dealer
 2019,Honda,Pilot Elite,Used,"$37,998 ",4.7,4,Gray,Gray,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H09KB050201,23566537,39930,4.8,4.7,4.7,4.6,4.7,4.8,TN,Dealer
-2019,Honda,HR-V LX,Used,"$23,590 ",4,9536,Gray,Black,All-wheel Drive,27–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H39KM709873,2002091609,33738,4.6,4.6,4.4,4.6,4.8,4.7,,
+2019,Honda,HR-V LX,Used,"$23,590 ",4,9536,Gray,Black,All-wheel Drive,27–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H39KM709873,2002091609,33738,4.6,4.6,4.4,4.6,4.8,4.7,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$29,075 ",4.5,1732,Crystal Black Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F32NA117569,496504,12,5,5,5,5,5,5,GA,Dealer
 2018,Honda,Clarity Plug-In Hybrid Touring,Used,"$23,485 ",4.7,0,Platinum White Pearl,Black,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F32JC004241,300832A,31902,4.8,4.7,4.6,4.6,4.4,4.7,GA,Dealer
 2022,Honda,Civic Si Base,Used,"$34,490 ",4.8,3040,Blue,Black / Red,Front-wheel Drive,27–37,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E57NH476854,NH476854,1070,4.2,4,4.5,4.2,4.5,5,GA,Dealer
@@ -4301,7 +4301,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2013,Honda,Civic Hybrid Base w/Leather (CVT),Used,"$10,456 ",2.9,113,Alabaster Silver Metallic,Gray,Front-wheel Drive,44–44,Hybrid,Automatic CVT,1.5L I4 8V MPFI SOHC Hybrid,19XFB4F30DE203559,221395,116826,4.1,4.2,3.8,3.8,4.3,4.2,CA,Dealer
 2022,Honda,HR-V EX,Used,"$26,416 ",1.5,50,Modern Steel Metallic,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H53NM714177,247582,8622,3.8,3.2,3.6,3.6,4.2,4.2,CA,Dealer
 2022,Honda,HR-V LX,Used,"$24,087 ",1.5,50,Lunar Silver Metallic,Gray,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H32NM716663,247636,10808,3.8,3.2,3.6,3.6,4.2,4.2,CA,Dealer
-2021,Honda,Pilot Elite,Used,"$44,798 ",4.8,64,White,Tan,All-wheel Drive,19–26,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FNYF6H06MB021399,54AG312P,25512,4.9,4.8,4.8,4.7,4.7,4.8,,
+2021,Honda,Pilot Elite,Used,"$44,798 ",4.8,64,White,Tan,All-wheel Drive,19–26,Gasoline,Automatic,Regular Unleaded V-6 3.5 L/212,5FNYF6H06MB021399,54AG312P,25512,4.9,4.8,4.8,4.7,4.7,4.8,,Individual
 2022,Honda,HR-V EX,Used,"$25,802 ",1.5,50,Modern Steel Metallic,Black,All-wheel Drive,26–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H54NM753043,247434,2139,3.8,3.2,3.6,3.6,4.2,4.2,CA,Dealer
 2019,Honda,Accord Hybrid EX-L,Used,"$27,200 ",4.3,11,Gray,Gray,Front-wheel Drive,48–48,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F54KA022214,54034,48611,4.5,4.5,3.9,3.9,4.6,4.4,NV,Dealer
 2023,Honda,HR-V EX-L,New,"$29,195 ",4.6,23,Deep Ocean Pearl,Black,FWD,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ1H71PM728576,30446,–,4,5,4,5,5,5,CA,Dealer
@@ -4329,10 +4329,10 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2021,Honda,HR-V EX,Used,"$28,804 ",4.7,1,Platinum White Pearl,Black,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H59MM728874,2049,22956,4.7,4.6,4.6,4.7,4.7,4.8,TX,Dealer
 2018,Honda,Civic Sport,Honda Certified,"$19,500 ",4.6,1144,Crystal Black Pearl,Black,Front-wheel Drive,30–36,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,SHHFK7H45JU237394,9237394,54541,4.7,4.7,4.8,4.8,4.9,4.8,ND,Dealer
 2022,Honda,Accord Sport 1.5T,New,"$30,470 ",4.6,1144,Sonic Gray Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F32NA107530,8107530,14,5,5,5,5,5,5,ND,Dealer
-2015,Honda,Pilot SE,Used,"$23,990 ",4,9531,White,Gray,Four-wheel Drive,17–24,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF4H35FB068313,2002172531,53630,4.8,4.7,4.7,4.8,4.6,4.9,,
+2015,Honda,Pilot SE,Used,"$23,990 ",4,9531,White,Gray,Four-wheel Drive,17–24,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNYF4H35FB068313,2002172531,53630,4.8,4.7,4.7,4.8,4.6,4.9,,Individual
 2017,Honda,Civic Touring,Used,"$19,117 ",4.4,257,RED,–,Front-wheel Drive,31–40,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,2HGFC3B93HH357955,C3961,74843,4.7,4.7,4.8,4.8,4.8,4.8,AR,Dealer
 2018,Honda,Accord EX,Used,"$22,978 ",4.7,12,Crystal Black Pearl,Black,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F47JA008026,124956A,85439,4.8,4.8,4.7,4.7,4.8,4.8,MO-22,Dealer
-2019,Honda,Insight Touring,Used,"$21,599 ",4.7,75,White Orchid Pearl,Ivory,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F98KE000246,TB1042A,77000,4.6,4.8,4.5,4.7,4.8,4.8,,
+2019,Honda,Insight Touring,Used,"$21,599 ",4.7,75,White Orchid Pearl,Ivory,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F98KE000246,TB1042A,77000,4.6,4.8,4.5,4.7,4.8,4.8,,Individual
 2022,Honda,Accord Touring 2.0T,Honda Certified,"$37,495 ",5,2232,Radiant Red Metallic,Ivory,Front-wheel Drive,22–32,Gasoline,10-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,1HGCV2F96NA005917,R225103,3833,5,5,5,5,5,5,MN,Dealer
 2023,Honda,HR-V Sport,New,"$29,614 ",3.8,596,Platinum White Pearl,Black,All-wheel Drive,25–30,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,3CZRZ2H56PM725838,8BH525N,6,4,5,4,5,5,5,MN,Dealer
 2020,Honda,Passport Sport,Honda Certified,"$31,499 ",5,2352,Deep Scarlet Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H22LB019211,P13096,18936,4.9,4.8,4.8,4.6,4.8,4.8,MN,Dealer
@@ -4401,7 +4401,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Hybrid Sport,New,"$32,560 ",5,9,Sonic Gray Pearl,Black,Front-wheel Drive,44–41,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,1HGCV3F27NA047022,821719,6,4.9,5,5,4.9,4.9,5,CA,Dealer
 2023,Honda,Odyssey Sport,New,"$42,900 ",4.9,5490,Gray,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H70PB021865,23H115,–,5,5,4,4,4,5,CA,Dealer
 2018,Honda,Odyssey Elite,Used,"$30,530 ",4.5,801,White,–,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H93JB030648,JB030648,65792,4.8,4.7,4.6,4.3,4.7,4.6,CA,Dealer
-2013,Honda,CR-V EX-L,Used,"$19,590 ",4,9537,Blue,Beige,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM3H76DH524731,2002126651,51493,4.5,4.5,4.5,4.5,4.5,4.6,,
+2013,Honda,CR-V EX-L,Used,"$19,590 ",4,9537,Blue,Beige,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,2HKRM3H76DH524731,2002126651,51493,4.5,4.5,4.5,4.5,4.5,4.6,,Individual
 2012,Honda,CR-V EX,Used,"$12,990 ",4.5,364,Blue,Blue,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,JHLRM3H51CC003914,220868,156155,4.5,4.5,4.4,4.6,4.5,4.7,CA,Dealer
 2019,Honda,Civic Si Base,Used,"$24,964 ",2.4,98,Lunar Silver Metallic,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC3A54KH750773,K1903A,35474,4.7,4.8,4.7,4.8,4.8,4.9,AZ,Dealer
 2023,Honda,Ridgeline Black,New,"$53,915 ",5,292,Sonic Gray Pearl,Nh-877p/Black,All-wheel Drive,18–24,Gasoline,9-SPEED A/T,V6 Cylinder Engine,5FPYK3F81PB014892,H1397,4,5,4.8,4.8,4.2,5,5,CA,Dealer
@@ -4501,7 +4501,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Si Base,New,Not Priced,1.4,46,Rallye Red,Black / Red,FWD,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E53PH471041,2230090,5,,,,,,,CA,Dealer
 2023,Honda,Civic Si Base,New,"$34,595 ",4.1,428,Crystal Black Pearl,Black / Red,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E52PH471953,PH471953,4,,,,,,,CA,Dealer
 2023,Honda,CR-V Hybrid Sport,New,"$34,700 ",5,619,Platinum White Pearl,Black,Front-wheel Drive,43–36,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,2HKRS5H59PH705133,230232,0,5,3,4,4,5,5,CA,Dealer
-2018,Honda,Accord Touring,Used,"$23,990 ",4,9544,Gray,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F91JA026002,2001970619,105200,4.8,4.8,4.7,4.7,4.8,4.8,,
+2018,Honda,Accord Touring,Used,"$23,990 ",4,9544,Gray,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F91JA026002,2001970619,105200,4.8,4.8,4.7,4.7,4.8,4.8,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$28,970 ",4.8,1780,Platinum White Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F33NA103969,NA103969,3,5,5,5,5,5,5,CA,Dealer
 2023,Honda,Civic Si Base,New,"$29,590 ",4.8,1780,Platinum White Pearl,Black / Red,FWD,,Gasoline,Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E57PH470684,PH470684,3,,,,,,,CA,Dealer
 2020,Honda,Odyssey EX,Used,"$30,999 ",5,1085,Silver Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H55LB044471,19553,32491,4.8,4.8,4.7,4.6,4.7,4.7,CA,Dealer
@@ -4541,7 +4541,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2016,Honda,Civic EX-T,Used,"$16,970 ",4.3,231,Black,Black,Front-wheel Drive,31–41,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,2HGFC3B34GH355786,L7880,80885,4.6,4.6,4.6,4.6,4.8,4.6,MN,Dealer
 2019,Honda,Civic EX,Honda Certified,"$21,993 ",3.9,1075,Cosmic Blue Metallic,Gray,Front-wheel Drive,32–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHMFC1F37KX005259,L253231,41815,4.8,4.8,4.9,4.8,4.9,4.9,MN,Dealer
 2020,Honda,HR-V LX,Used,"$21,185 ",4.2,382,White,–,All-wheel Drive,27–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU6H39LM723175,97879KRC,51917,4.7,4.8,4.7,4.8,4.8,4.7,IL,Dealer
-2020,Honda,HR-V LX,Used,"$21,185 ",4.2,382,,,,,,,,,,,,,,,,,,
+2020,Honda,HR-V LX,Used,"$21,185 ",4.2,382,,,,,,,,,,,,,,,,,,Individual
 2011,Honda,CR-V EX,Used,"$11,000 ",4,212,Gray,–,Front-wheel Drive,21–28,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE3H50BL006774,P779114A,113275,4.5,4.4,4.4,4.6,4.5,4.7,LA,Dealer
 2015,Honda,Civic EX,Used,"$12,539 ",4.1,214,Silver,Gray,Front-wheel Drive,30–39,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,19XFB2F89FE090276,87081A,121163,4.6,4.6,4.6,4.7,4.6,4.8,WI,Dealer
 2023,Honda,HR-V EX-L,New,"$30,645 ",4.8,1889,Milano Red,Black,All-wheel Drive,,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,3CZRZ2H77PM728085,E10096,0,4,5,4,5,5,5,IL,Dealer
@@ -4569,7 +4569,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport 1.5T,New,"$30,075 ",4.8,2243,Lunar Silver Metallic,–,FWD,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F31NA123878,NA123878,5,5,5,5,5,5,5,TN,Dealer
 2020,Honda,Odyssey EX-L,Honda Certified,"$34,545 ",4.8,184,Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H7XLB060361,H1858A,42221,4.8,4.8,4.7,4.6,4.7,4.7,MI,Dealer
 2022,Honda,Passport EX-L,New,"$44,291 ",4.6,1097,Radiant Red Metallic II,–,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H53NB029176,27165,16,5,5,4.9,5,4.9,5,GA,Dealer
-2010,Honda,CR-V LX,Used,"$16,990 ",4,9537,White,Gray,Four-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE4H31AL086363,2002190103,44231,4.5,4.6,4.4,4.7,4.5,4.8,,
+2010,Honda,CR-V LX,Used,"$16,990 ",4,9537,White,Gray,Four-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6RE4H31AL086363,2002190103,44231,4.5,4.6,4.4,4.7,4.5,4.8,,Individual
 2007,Honda,Element LX,Used,"$13,500 ",4.5,470,Blue,–,Four-wheel Drive,21–26,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,5J6YH28367L008757,S8897T,75048,4.2,4.4,4.2,4.5,4.5,4.6,OH,Dealer
 2020,Honda,Accord LX 1.5T,Used,"$22,250 ",4.8,0,Gray,Black,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F10LA100118,PFA100118,36728,4.8,4.8,4.8,4.8,4.9,4.9,MI,Dealer
 2020,Honda,Pilot EX-L,Used,"$33,933 ",4.2,9,Platinum White Pearl,Black,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H58LB022323,T006163A,33317,4.6,4.5,4.2,4.1,4.5,4.1,KY,Dealer
@@ -4588,7 +4588,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Ridgeline Sport,Used,"$32,500 ",5,1047,Black,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F16LB017431,R2436A,18204,4.8,4.7,4.6,4.5,4.7,4.7,PA,Dealer
 2017,Honda,Pilot Touring,Used,"$21,099 ",4.7,5,White Diamond Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H90HB012783,A2T348276A,154731,4.8,4.7,4.7,4.6,4.7,4.7,VA,Dealer
 2023,Honda,Passport EX-L,New,"$42,790 ",4.4,124,Platinum White Pearl,Black,All-wheel Drive,,Gasoline,Automatic,3.5L V6 24V GDI SOHC,5FNYF8H50PB002147,PB002147,5,,,,,,,PA,Dealer
-2018,Honda,Civic Touring,Used,"$23,990 ",4,9534,Blue,Black,Front-wheel Drive,32–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHMFC1F97JX026146,2002091747,43194,4.7,4.7,4.8,4.8,4.9,4.8,,
+2018,Honda,Civic Touring,Used,"$23,990 ",4,9534,Blue,Black,Front-wheel Drive,32–42,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHMFC1F97JX026146,2002091747,43194,4.7,4.7,4.8,4.8,4.9,4.8,,Individual
 2022,Honda,Civic Sport,Used,"$25,495 ",4.6,1192,Meteorite Gray Metallic,Black,Front-wheel Drive,30–37,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,2HGFE2F54NH607436,220457A,637,4.6,4.9,4.4,4.6,4.6,4.7,NJ,Dealer
 2023,Honda,Pilot EX-L 8-Passenger,New,"$45,395 ",4.8,4583,Obsidian Blue Pearl,Gray,All-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,5FNYG1H4XPB003379,PB003379,4,,,,,,,NJ,Dealer
 2005,Honda,Odyssey Touring,Used,"$5,495 ",4.6,6,Navy Blue,Gray,Front-wheel Drive,20–28,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL38835B080297,2234,113000,4.8,4.6,4.6,4.5,4.5,4.6,NJ,Dealer
@@ -4601,7 +4601,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Si Base,New,"$29,590 ",1.3,65,Platinum White Pearl,Black / Red,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E52PH470690,5670690,–,,,,,,,CA,Dealer
 2023,Honda,CR-V Hybrid Sport Touring,New,"$40,395 ",5,619,Crystal Black Pearl,Black,All-wheel Drive,40–34,Hybrid,Variable,Gas/Electric I-4 2.0 L/122,2HKRS6H96PH804114,230235,0,5,3,4,4,5,5,CA,Dealer
 2013,Honda,Civic EX-L,Used,"$15,980 ",4.9,455,Dyno Blue Pearl,Gray,Front-wheel Drive,28–39,Gasoline,5-Speed Automatic,1.8L I4 16V MPFI SOHC,19XFB2F93DE287210,12778,56964,4.5,4.5,4.4,4.7,4.6,4.8,CA,Dealer
-2019,Honda,Passport Sport,Used,"$26,990 ",4,9531,Red,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H2XKB007932,2002172153,44939,4.8,4.7,4.7,4.6,4.7,4.8,,
+2019,Honda,Passport Sport,Used,"$26,990 ",4,9531,Red,Black,Front-wheel Drive,20–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF7H2XKB007932,2002172153,44939,4.8,4.7,4.7,4.6,4.7,4.8,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$28,923 ",4.7,2713,Still Night Pearl,–,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F3XNA089648,NA089648,10,5,5,5,5,5,5,CA,Dealer
 2021,Honda,CR-V Hybrid Touring,Honda Certified,"$34,431 ",4.3,1905,Radiant Red Metallic,Gray,All-wheel Drive,40–35,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,7FART6H90ME026940,839891,12780,4.8,4.8,4.8,4.7,4.8,4.8,AZ,Dealer
 2018,Honda,HR-V LX,Used,"$20,518 ",4.8,437,Green,–,Front-wheel Drive,28–34,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,3CZRU5H37JM707788,788392,33872,4.7,4.5,4.7,4.6,4.8,4.8,NM,Dealer
@@ -4615,7 +4615,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Accord Sport 1.5T,Used,"$32,712 ",4.5,2440,Silver Gray,–,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F36NA023050,NA023050,4062,5,5,5,5,5,5,TX,Dealer
 2018,Honda,Civic Si,Used,"$22,400 ",4.4,58,Crystal Black Pearl,Black,Front-wheel Drive,28–38,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFC1E59JH702540,AN702540,41515,4.7,4.7,4.8,4.8,4.9,4.8,TX,Dealer
 2023,Honda,CR-V EX,New,"$34,250 ",5,942,Mountain Air Metallic,Black,All-wheel Drive,,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,7FARS4H46PE009155,H009155,5,5,5,5,4,4,5,TX,Dealer
-2023,Honda,CR-V EX,New,"$34,250 ",5,942,,,,,,,,,,,,,,,,,,
+2023,Honda,CR-V EX,New,"$34,250 ",5,942,,,,,,,,,,,,,,,,,,Individual
 2020,Honda,Ridgeline Sport,Used,"$28,995 ",4.4,638,Modern Steel Metallic,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F10LB020843,LB020843P,53370,4.8,4.7,4.6,4.5,4.7,4.7,TX,Dealer
 2020,Honda,Passport Elite,Honda Certified,"$38,957 ",4.9,1009,Crystal Black Pearl,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H01LB001670,405905A,22754,4.9,4.8,4.8,4.6,4.8,4.8,SD,Dealer
 2022,Honda,Accord Sport 1.5T,New,"$30,470 ",2.2,11,Sonic Gray Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F32NA107561,H7561,–,5,5,5,5,5,5,KS,Dealer
@@ -4669,7 +4669,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2015,Honda,CR-V Touring,Used,"$16,797 ",4.6,249,White Diamond Pearl,Beige,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,5J6RM4H94FL128619,FL128619,109556,4.4,4.4,4.3,4.3,4.6,4.5,GA,Dealer
 2019,Honda,Passport Sport,Used,"$27,980 ",4,19,Silver,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H29KB016868,12902,28610,4.8,4.7,4.7,4.6,4.7,4.8,WV,Dealer
 2022,Honda,CR-V Hybrid Touring,Used,"$39,958 ",4.5,93,Crystal Black Pearl,–,All-wheel Drive,40–35,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,5J6RT6H98NL026737,H029565A,11839,4.6,4.9,4.5,4.6,4.8,4.7,WV,Dealer
-2010,Honda,Accord LX,Used,"$15,590 ",4,9531,Beige,Beige,Front-wheel Drive,21–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,1HGCP2F32AA022102,2002154704,55426,4.3,4.4,4.4,4.4,4.5,4.6,,
+2010,Honda,Accord LX,Used,"$15,590 ",4,9531,Beige,Beige,Front-wheel Drive,21–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,1HGCP2F32AA022102,2002154704,55426,4.3,4.4,4.4,4.4,4.5,4.6,,Individual
 2016,Honda,Odyssey Touring Elite,Used,"$22,724 ",4.7,0,White Diamond Pearl,Beige,Front-wheel Drive,19–28,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,5FNRL5H92GB001869,P0317,81294,4.8,4.6,4.7,4.6,4.7,4.8,FL,Dealer
 2019,Honda,Odyssey EX-L,Used,"$34,021 ",5,453,Lunar Silver Metallic,Gray,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H72KB097130,I097130,25911,4.8,4.6,4.5,4.3,4.7,4.5,FL,Dealer
 2019,Honda,Insight EX,Used,"$21,639 ",5,5766,Gray,Black,Front-wheel Drive,55–49,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F50KE033965,W585554B,51106,4.6,4.8,4.5,4.7,4.8,4.8,FL,Dealer
@@ -4701,7 +4701,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,Civic Si Base,New,"$29,650 ",1.3,65,Platinum White Pearl,Black / Red,Front-wheel Drive,,Gasoline,6-Speed Manual,1.5L I4 16V GDI DOHC Turbo,2HGFE1E51PH471572,5671572,–,,,,,,,CA,Dealer
 2018,Honda,Odyssey Touring,Used,"$29,262 ",4.6,68,Red,Beige,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H88JB076869,72646,72713,4.8,4.7,4.6,4.3,4.7,4.6,CA,Dealer
 2023,Honda,Civic Si,New,"$29,195 ",4.9,3669,Aegean Blue Metallic,Black/Red,Front-wheel Drive,27–37,Gasoline,Manual,Intercooled Turbo Premium Unleaded I-4 1.5 L/91,2HGFE1E5XPH470713,230141,0,,,,,,,CA,Dealer
-2012,Honda,CR-V EX-L,Used,"$16,590 ",4,9531,Green,Black,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,JHLRM3H78CC007251,2002040026,101201,4.5,4.5,4.4,4.6,4.5,4.7,,
+2012,Honda,CR-V EX-L,Used,"$16,590 ",4,9531,Green,Black,Front-wheel Drive,23–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,JHLRM3H78CC007251,2002040026,101201,4.5,4.5,4.4,4.6,4.5,4.7,,Individual
 2022,Honda,Accord Sport 1.5T,New,"$28,982 ",4.7,1932,Crystal Black Pearl,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F37NA106809,NA106809,7,5,5,5,5,5,5,NV,Dealer
 2016,Honda,Accord Touring,Used,"$19,561 ",4.8,1555,White Orchid Pearl,Ivory,Front-wheel Drive,21–34,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI SOHC,1HGCR3F98GA025728,GA025728,91519,4.8,4.7,4.7,4.7,4.8,4.8,CA,Dealer
 2016,Honda,Accord Sport,Used,"$19,998 ",4.7,7,White,Black,Front-wheel Drive,26–35,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCR2F55GA090558,23380860,83704,4.8,4.7,4.7,4.7,4.8,4.8,NV,Dealer
@@ -4794,14 +4794,14 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2022,Honda,Pilot TrailSport,New,"$46,105 ",3.7,868,Crystal Black Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H84NB099753,220896N,5,5,5,5,5,5,5,NJ,Dealer
 2022,Honda,Pilot TrailSport,New,"$46,500 ",4.6,652,Sonic Gray Pearl,Black,All-wheel Drive,19–25,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H8XNB095416,NB095416,7,5,5,5,5,5,5,NJ,Dealer
 2019,Honda,Odyssey EX-L,Used,"$28,499 ",5,915,Gray,Gray,Front-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H78KB134097,KB134097,42935,4.8,4.6,4.5,4.3,4.7,4.5,NJ,Dealer
-2019,Honda,Fit LX,Used,"$19,990 ",4,9533,White,Black,Front-wheel Drive,33–40,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,3HGGK5H49KM702025,2002160698,23347,4.6,4.6,4.7,4.8,4.8,4.8,,
+2019,Honda,Fit LX,Used,"$19,990 ",4,9533,White,Black,Front-wheel Drive,33–40,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC,3HGGK5H49KM702025,2002160698,23347,4.6,4.6,4.7,4.8,4.8,4.8,,Individual
 2017,Honda,Civic Type R Touring,Used,"$36,994 ",4.3,66,Rallye Red,Red / Black,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G74HU202020,U6895,15880,4.7,4.7,4.8,4.8,4.8,4.8,CT,Dealer
 2021,Honda,Pilot Touring 8-Passenger,Used,"$38,788 ",5,2879,Crystal Black Pearl,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H97MB032751,P4311A,30851,4.9,4.8,4.8,4.7,4.7,4.8,MA,Dealer
 2016,Honda,Civic EX,Used,"$17,900 ",4.9,569,Crystal Black Pearl,Gray,Front-wheel Drive,31–41,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,19XFC2F74GE219949,PX3400,68235,4.6,4.6,4.6,4.6,4.8,4.6,MA,Dealer
 2023,Honda,Odyssey Sport,New,"$43,050 ",4.9,5490,Sonic Gray Pearl,Black,Front-wheel Drive,,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,5FNRL6H77PB028263,23H191,4,5,5,4,4,4,5,CA,Dealer
 2023,Honda,Accord EX,New,"$30,705 ",5,619,Meteorite Gray Metallic,Gray,Front-wheel Drive,29–37,Gasoline,Variable,Intercooled Turbo Regular Unleaded I-4 1.5 L/91,1HGCY1F39PA000243,230229,0,,,,,,,CA,Dealer
 2019,Honda,Passport Touring,Used,"$33,950 ",4.1,1747,Obsidian Blue Pearl,Gray,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF8H91KB007367,7367,20219,4.8,4.7,4.7,4.6,4.7,4.8,CA,Dealer
-2017,Honda,Accord Hybrid Touring,Used,"$21,590 ",4,9531,White,Black,Front-wheel Drive,49–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR6F78HC023920,2002127038,100538,4.8,4.8,4.7,4.6,4.9,4.8,,
+2017,Honda,Accord Hybrid Touring,Used,"$21,590 ",4,9531,White,Black,Front-wheel Drive,49–47,Hybrid,Automatic CVT,2.0L I4 16V MPFI DOHC Hybrid,JHMCR6F78HC023920,2002127038,100538,4.8,4.8,4.7,4.6,4.9,4.8,,Individual
 2019,Honda,Accord Sport,Used,"$24,998 ",4.7,11,White,Black,Front-wheel Drive,29–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F36KA057002,23502709,61435,4.7,4.7,4.7,4.7,4.8,4.8,NV,Dealer
 2023,Honda,Ridgeline RTL-E,New,"$46,025 ",4.8,12,Modern Steel Metallic,Black,All-wheel Drive,,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F74PB010939,5710939,7,5,4.8,4.8,4.2,5,5,CA,Dealer
 2019,Honda,CR-V EX,Used,"$28,998 ",4.8,19,Silver,Black,All-wheel Drive,27–33,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,JHLRW2H53KX003764,26056D,41644,4.8,4.8,4.7,4.7,4.8,4.8,CA,Dealer
@@ -4842,7 +4842,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2023,Honda,HR-V EX-L,New,"$28,695 ",4.8,3335,Crystal Black Pearl,Black,Front-wheel Drive,26–32,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,3CZRZ1H76PM717539,QG23167,0,4,5,4,5,5,5,GA,Dealer
 2020,Honda,Pilot EX-L,Honda Certified,"$34,500 ",4.6,1641,Modern Steel Metallic,Black,All-wheel Drive,18–26,Gasoline,6-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H56LB038195,HP2180,19391,4.6,4.5,4.2,4.1,4.5,4.1,MI,Dealer
 2022,Honda,Pilot Sport,Used,"$34,999 ",5,1501,Lunar Silver Metallic,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FNYF6H32NB019158,AT4401,9144,5,5,5,5,5,5,MI,Dealer
-2017,Honda,Accord LX-S,Used,"$21,990 ",4,9531,Blue,Black,Front-wheel Drive,26–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCT1B38HA006573,2002133136,34446,4.8,4.8,4.8,4.8,4.8,4.9,,
+2017,Honda,Accord LX-S,Used,"$21,990 ",4,9531,Blue,Black,Front-wheel Drive,26–34,Gasoline,Automatic CVT,2.4L I4 16V GDI DOHC,1HGCT1B38HA006573,2002133136,34446,4.8,4.8,4.8,4.8,4.8,4.9,,Individual
 2018,Honda,Clarity Plug-In Hybrid Touring,Honda Certified,"$19,500 ",4.8,551,Moonlit Forest Pearl,Beige,Front-wheel Drive,,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,JHMZC5F36JC001746,24210A,118110,4.8,4.7,4.6,4.6,4.4,4.7,NC,Dealer
 2008,Honda,Accord EX-L,Used,"$11,995 ",4.4,19,Silver,Gray,Front-wheel Drive,21–31,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,1HGCP26868A082082,BL-082082,67914,4.4,4.3,4.3,4.3,4.5,4.3,NC,Dealer
 2022,Honda,Insight Touring,Honda Certified,"$29,900 ",4.5,437,Platinum White Pearl,Ivory,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F91NE006457,CBM220436A,18069,,,,,,,FL,Dealer
@@ -4850,7 +4850,7 @@ Year,Make,Model,Condition,Price,Consumer_Rating,Consumer_Review_#,Exterior_Color
 2020,Honda,Ridgeline RTL,Used,"$30,500 ",5,3996,Crystal Black Pearl,Black,Front-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK2F54LB000527,B2354,27133,4.8,4.7,4.6,4.5,4.7,4.7,FL,Dealer
 2022,Honda,Insight Touring,Used,"$32,988 ",4.9,4034,Modern Steel Metallic,Black,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F91NE000190,61P1244A,14769,,,,,,,FL,Dealer
 2021,Honda,Insight Touring,Used,"$26,506 ",5,1114,Lunar Silver Metallic,Black,Front-wheel Drive,51–45,Hybrid,Automatic CVT,1.5L I4 16V MPFI DOHC Hybrid,19XZE4F99ME000078,78,41512,5,5,5,5,5,5,FL,Dealer
-2011,Honda,Fit Sport,Used,"$16,990 ",4,9533,Orange,Gray,Front-wheel Drive,27–33,Gasoline,5-Speed Automatic,1.5L I4 16V MPFI SOHC,JHMGE8H55BS011550,2002023594,17755,4.4,4.6,4.4,4.9,4.7,5,,
+2011,Honda,Fit Sport,Used,"$16,990 ",4,9533,Orange,Gray,Front-wheel Drive,27–33,Gasoline,5-Speed Automatic,1.5L I4 16V MPFI SOHC,JHMGE8H55BS011550,2002023594,17755,4.4,4.6,4.4,4.9,4.7,5,,Individual
 2021,Honda,Civic Type R Touring,Used,"$45,998 ",4.9,0,Black,Black,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,SHHFK8G72MU204004,22816197,4756,5,4.8,5,4.8,4.8,5,NY,Dealer
 2019,Honda,Accord EX-L,Used,"$29,689 ",4.7,58,Red,Ivory,Front-wheel Drive,30–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,1HGCV1F54KA066671,BX2185,21920,4.7,4.7,4.7,4.7,4.8,4.8,SC,Dealer
 2021,Honda,Ridgeline Sport,Used,"$28,498 ",4.8,3229,Lunar Silver Metallic,Black,All-wheel Drive,18–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,5FPYK3F16MB012649,B012649,47271,4.9,4.7,4.7,4.5,4.9,4.6,FL,Dealer
