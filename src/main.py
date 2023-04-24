@@ -2,6 +2,14 @@ import numpy as np
 import pandas as pd
 
 
+def normalize(col: list) -> list:
+    """
+    :param col: int based list of column values to normalize
+    :return: normalized (0-1) list
+    """
+    return (col - np.min(col)) / (np.max(col) - np.min(col))
+
+
 def one_hot_encode(col: list) -> list:
     """
     :param col: list of values to encode
@@ -40,17 +48,18 @@ for i, mile in enumerate(mileage):
     else:
         mileage[i] = int(mile)
 
-year_normalized = (year - np.min(year)) / (np.max(year) - np.min(year))
-price_normalized = (price - np.min(price)) / (np.max(price) - np.min(price))
-mileage_normalized = (mileage - np.min(mileage)) / (np.max(mileage) - np.min(mileage))
+year_normalized = normalize(year)
+price_normalized = normalize(price)
+mileage_normalized = normalize(mileage)
 
-#one-hot
+# one-hot
 model_normalized = one_hot_encode(model)
 color_normalized = one_hot_encode(color)
 drivetrain_normalized = one_hot_encode(drivetrain)
 engine_normalized = one_hot_encode(engine)
 fuel_type_normalized = one_hot_encode(fuel_type)
 seller_normalized = one_hot_encode(seller)
+
 
 #
 # for i in range(len(engine)):
