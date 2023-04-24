@@ -73,3 +73,5 @@ x = np.concatenate(
 y = price_normalized
 
 
+
+
