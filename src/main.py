@@ -5,9 +5,10 @@ import pandas as pd
 def normalize(col: list) -> list:
     """
     :param col: int based list of column values to normalize
-    :return: normalized (0-1) list
+    :return: normalized (0-1) list reshaped to vertical
     """
-    return (col - np.min(col)) / (np.max(col) - np.min(col))
+    arr = (col - np.min(col)) / (np.max(col) - np.min(col))
+    return arr.reshape(-1, 1)
 
 
 def one_hot_encode(col: list) -> list:
@@ -60,10 +61,15 @@ engine_normalized = one_hot_encode(engine)
 fuel_type_normalized = one_hot_encode(fuel_type)
 seller_normalized = one_hot_encode(seller)
 
-
 #
 # for i in range(len(engine)):
 #     print(engine[i], "\t", engine_normalized[i])
 
+
+x = np.concatenate(
+    (year_normalized, mileage_normalized, model_normalized, color_normalized,
+     drivetrain_normalized, engine_normalized, fuel_type_normalized, seller_normalized),
+    axis=1)
+y = price_normalized
 
 
