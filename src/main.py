@@ -24,53 +24,54 @@ def one_hot_encode(col: list) -> list:
     return col_train
 
 
-df = pd.read_csv('../dataset/honda_sell_data.csv')
-filtered_cols = df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
-                    'Engine', 'Mileage', 'Seller_Type']]
-filtered_cols = filtered_cols[filtered_cols['Price'] != 'Not Priced']
+if __name__ == '__main__':
+    df = pd.read_csv('../dataset/honda_sell_data.csv')
+    filtered_cols = df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
+                        'Engine', 'Mileage', 'Seller_Type']]
+    filtered_cols = filtered_cols[filtered_cols['Price'] != 'Not Priced']
 
-year = filtered_cols['Year'].to_numpy()
-price = filtered_cols['Price'].to_numpy()
-mileage = filtered_cols['Mileage'].to_numpy()
-model = filtered_cols['Model'].to_numpy()
-color = filtered_cols['Exterior_Color'].to_numpy()
-drivetrain = filtered_cols['Drivetrain'].to_numpy()
-engine = filtered_cols['Engine'].to_numpy()
-fuel_type = filtered_cols['Fuel_Type'].to_numpy()
-seller = filtered_cols['Seller_Type'].to_numpy()
+    year = filtered_cols['Year'].to_numpy()
+    price = filtered_cols['Price'].to_numpy()
+    mileage = filtered_cols['Mileage'].to_numpy()
+    model = filtered_cols['Model'].to_numpy()
+    color = filtered_cols['Exterior_Color'].to_numpy()
+    drivetrain = filtered_cols['Drivetrain'].to_numpy()
+    engine = filtered_cols['Engine'].to_numpy()
+    fuel_type = filtered_cols['Fuel_Type'].to_numpy()
+    seller = filtered_cols['Seller_Type'].to_numpy()
 
-# min-max
-price = [int(p.replace("$", "").replace(",", "")) for p in price]
-for i, mile in enumerate(mileage):
-    if isinstance(mile, float) or mile == '–':
-        mileage[i] = 0
-    elif isinstance(mile, str) and mile.isalpha():
-        mileage[i] = 0
-    else:
-        mileage[i] = int(mile)
+    # min-max
+    price = [int(p.replace("$", "").replace(",", "")) for p in price]
+    for i, mile in enumerate(mileage):
+        if isinstance(mile, float) or mile == '–':
+            mileage[i] = 0
+        elif isinstance(mile, str) and mile.isalpha():
+            mileage[i] = 0
+        else:
+            mileage[i] = int(mile)
 
-year_normalized = normalize(year)
-price_normalized = normalize(price)
-mileage_normalized = normalize(mileage)
+    year_normalized = normalize(year)
+    price_normalized = normalize(price)
+    mileage_normalized = normalize(mileage)
 
-# one-hot
-model_normalized = one_hot_encode(model)
-color_normalized = one_hot_encode(color)
-drivetrain_normalized = one_hot_encode(drivetrain)
-engine_normalized = one_hot_encode(engine)
-fuel_type_normalized = one_hot_encode(fuel_type)
-seller_normalized = one_hot_encode(seller)
+    # one-hot
+    model_normalized = one_hot_encode(model)
+    color_normalized = one_hot_encode(color)
+    drivetrain_normalized = one_hot_encode(drivetrain)
+    engine_normalized = one_hot_encode(engine)
+    fuel_type_normalized = one_hot_encode(fuel_type)
+    seller_normalized = one_hot_encode(seller)
 
-#
-# for i in range(len(engine)):
-#     print(engine[i], "\t", engine_normalized[i])
+    #
+    # for i in range(len(engine)):
+    #     print(engine[i], "\t", engine_normalized[i])
 
 
-x = np.concatenate(
-    (year_normalized, mileage_normalized, model_normalized, color_normalized,
-     drivetrain_normalized, engine_normalized, fuel_type_normalized, seller_normalized),
-    axis=1)
-y = price_normalized
+    x = np.concatenate(
+        (year_normalized, mileage_normalized, model_normalized, color_normalized,
+         drivetrain_normalized, engine_normalized, fuel_type_normalized, seller_normalized),
+        axis=1)
+    y = price_normalized
 
 
 
