@@ -86,6 +86,7 @@ if __name__ == '__main__':
     x_test = x_shuffled[train_size + val_size:]
     y_test = y_shuffled[train_size + val_size:]
 
+    np.set_printoptions(threshold=np.inf)
     samples = [x_train, y_train]
 
 
