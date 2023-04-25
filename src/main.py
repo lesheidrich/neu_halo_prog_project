@@ -66,13 +66,26 @@ if __name__ == '__main__':
     # for i in range(len(engine)):
     #     print(engine[i], "\t", engine_normalized[i])
 
-
     x = np.concatenate(
         (year_normalized, mileage_normalized, model_normalized, color_normalized,
          drivetrain_normalized, engine_normalized, fuel_type_normalized, seller_normalized),
         axis=1)
     y = price_normalized
 
+    np.random.seed(47)
+    shuffled_indices = np.random.permutation(len(x))
+    x_shuffled = x[shuffled_indices]
+    y_shuffled = y[shuffled_indices]
+    train_size = int(0.8 * len(x_shuffled))
+    val_size = int(0.1 * len(x_shuffled))
 
+    x_train = x_shuffled[:train_size]
+    y_train = y_shuffled[:train_size]
+    x_val = x_shuffled[train_size:train_size + val_size]
+    y_val = y_shuffled[train_size:train_size + val_size]
+    x_test = x_shuffled[train_size + val_size:]
+    y_test = y_shuffled[train_size + val_size:]
+
+    samples = [x_train, y_train]
 
 
