@@ -102,17 +102,25 @@ if __name__ == '__main__':
     samples = [x_train, y_train]
 
     # how many input neurons I need
-    total_input_neurons = sum(map(lambda e: len(np.unique(e)),
-                                  [year_normalized, price_normalized, mileage_normalized, model_normalized,
-                                   color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
-                                   seller_normalized]))
+    # total_input_neurons = sum(map(lambda e: len(np.unique(e)),
+    #                               [year_normalized, price_normalized, mileage_normalized, model_normalized,
+    #                                color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
+    #                                seller_normalized]))
 
-    NI, NH, NO, B = total_input_neurons, total_input_neurons*2, 1, 1
-    w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
-    w2 = np.random.random((NO, NH)) * 0.8 - 0.4
+    # NI, NH, NO, B = total_input_neurons, total_input_neurons*2, 1, 1
+    # w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
+    # w2 = np.random.random((NO, NH)) * 0.8 - 0.4
 
-    print(NI)
-    print(NH)
+    print(len(np.unique(year_normalized)))
+    # print(len(np.unique(price_normalized)))
+    print(len(np.unique(mileage_normalized)))
+    print(len(np.unique(model_normalized)))
+    print(len(np.unique(color_normalized)))
+    print(len(np.unique(drivetrain_normalized)))
+    print(len(np.unique(engine_normalized)))
+    print(len(np.unique(fuel_type_normalized)))
+    print(len(np.unique(seller_normalized)))
+
 
     # for cnt in range(10000):
     #     sumerr = 0.0
