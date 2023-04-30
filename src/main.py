@@ -1,5 +1,9 @@
+import math
 import numpy as np
 import pandas as pd
+
+from keras.models import Sequential
+from keras.layers import Dense
 
 
 def normalize(col: list) -> list:
@@ -24,6 +28,14 @@ def one_hot_encode(col: list) -> list:
     return col_train
 
 
+def sigmoid_activation_func(x):
+    return 1.0 / (1.0 + math.exp(-x))
+
+
+def sigmoid_activation_func_derivative(y):
+    return y * (1.0 - y)
+
+
 if __name__ == '__main__':
     df = pd.read_csv('../dataset/honda_sell_data.csv')
     filtered_cols = df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
@@ -33,7 +45,7 @@ if __name__ == '__main__':
     year = filtered_cols['Year'].to_numpy()
     price = filtered_cols['Price'].to_numpy()
     mileage = filtered_cols['Mileage'].to_numpy()
-    model = filtered_cols['Model'].to_numpy()
+    model = filtered_cols['Model'].to_numpy()  #lehet le kell csokkenteni
     color = filtered_cols['Exterior_Color'].to_numpy()
     drivetrain = filtered_cols['Drivetrain'].to_numpy()
     engine = filtered_cols['Engine'].to_numpy()
@@ -89,4 +101,33 @@ if __name__ == '__main__':
     np.set_printoptions(threshold=np.inf)
     samples = [x_train, y_train]
 
+    # how many input neurons I need
+    total_input_neurons = sum(map(lambda e: len(np.unique(e)),
+                                  [year_normalized, price_normalized, mileage_normalized, model_normalized,
+                                   color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
+                                   seller_normalized]))
 
+    NI, NH, NO, B = total_input_neurons, total_input_neurons*2, 1, 1
+    w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
+    w2 = np.random.random((NO, NH)) * 0.8 - 0.4
+
+    print(NI)
+    print(NH)
+
+    # for cnt in range(10000):
+    #     sumerr = 0.0
+    #     for inp, outpt in samples:
+    #         print(len(inp))
+    #         print(len(outpt))
+    #         x = np.array(inp + [1.0] * B)
+    #         h = sigmoid_activation_func(np.dot(w1, x))
+    #         y = sigmoid_activation_func(np.dot(w2, h))
+    #         error = outpt - y
+    #         deltao = error * sigmoid_activation_func_derivative(y)
+    #         deltah = np.dot(deltao, w2) * sigmoid_activation_func_derivative(h)
+    #         w2 += 0.5 * deltao.reshape((NO, 1)) * h.reshape((1, NH))
+    #         w1 += 0.5 * deltah.reshape((NH, 1)) * x.reshape((1, NI + B))
+    #         sumerr += sum(error ** 2)
+    #     if sumerr < 0.01:
+    #         break
+    # print(cnt, sumerr)
