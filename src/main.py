@@ -2,9 +2,6 @@ import math
 import numpy as np
 import pandas as pd
 
-from keras.models import Sequential
-from keras.layers import Dense
-
 
 def normalize(col: list) -> list:
     """
@@ -45,7 +42,7 @@ if __name__ == '__main__':
     year = filtered_cols['Year'].to_numpy()
     price = filtered_cols['Price'].to_numpy()
     mileage = filtered_cols['Mileage'].to_numpy()
-    model = filtered_cols['Model'].to_numpy()  #lehet le kell csokkenteni
+    model = filtered_cols['Model'].to_numpy()  # lehet le kell csokkenteni
     color = filtered_cols['Exterior_Color'].to_numpy()
     drivetrain = filtered_cols['Drivetrain'].to_numpy()
     engine = filtered_cols['Engine'].to_numpy()
@@ -67,12 +64,12 @@ if __name__ == '__main__':
     mileage_normalized = normalize(mileage)
 
     # one-hot
-    model_normalized = one_hot_encode(model)
-    color_normalized = one_hot_encode(color)
-    drivetrain_normalized = one_hot_encode(drivetrain)
-    engine_normalized = one_hot_encode(engine)
-    fuel_type_normalized = one_hot_encode(fuel_type)
-    seller_normalized = one_hot_encode(seller)
+    model_normalized = np.array(one_hot_encode(model))
+    color_normalized = np.array(one_hot_encode(color))
+    drivetrain_normalized = np.array(one_hot_encode(drivetrain))
+    engine_normalized = np.array(one_hot_encode(engine))
+    fuel_type_normalized = np.array(one_hot_encode(fuel_type))
+    seller_normalized = np.array(one_hot_encode(seller))
 
     #
     # for i in range(len(engine)):
@@ -98,44 +95,54 @@ if __name__ == '__main__':
     x_test = x_shuffled[train_size + val_size:]
     y_test = y_shuffled[train_size + val_size:]
 
-    np.set_printoptions(threshold=np.inf)
-    samples = [x_train, y_train]
+
 
     # how many input neurons I need
-    # total_input_neurons = sum(map(lambda e: len(np.unique(e)),
-    #                               [year_normalized, price_normalized, mileage_normalized, model_normalized,
-    #                                color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
-    #                                seller_normalized]))
+    sum_inp_neu = sum([arr.shape[1] for arr in [year_normalized, price_normalized, mileage_normalized, model_normalized,
+                                       color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
+                                       seller_normalized]])
 
-    # NI, NH, NO, B = total_input_neurons, total_input_neurons*2, 1, 1
-    # w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
-    # w2 = np.random.random((NO, NH)) * 0.8 - 0.4
+    NI, NH, NO, B = sum_inp_neu, sum_inp_neu*2, 1, 1
+    w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
+    w2 = np.random.random((NO, NH)) * 0.8 - 0.4
 
-    print(len(np.unique(year_normalized)))
-    # print(len(np.unique(price_normalized)))
-    print(len(np.unique(mileage_normalized)))
-    print(len(np.unique(model_normalized)))
-    print(len(np.unique(color_normalized)))
-    print(len(np.unique(drivetrain_normalized)))
-    print(len(np.unique(engine_normalized)))
-    print(len(np.unique(fuel_type_normalized)))
-    print(len(np.unique(seller_normalized)))
+    print("NI", np.shape(NI), NI)
+    print("NH", np.shape(NH), NH)
+    print("NO", np.shape(NO), NO)
+    print("B", np.shape(B), B)
+    print("w1", np.shape(w1), len(w1))
+    print("w2", np.shape(w2), len(w2))
+
+    np.set_printoptions(threshold=np.inf)
+
+    samples = list([
+        [x_e, y_e] for x_e, y_e in zip(x_train, y_train)
+    ])
+    # print(x_train[0])
+    # print()
+    # print(y_train[0])
+    # print(samples[0])
 
 
-    # for cnt in range(10000):
-    #     sumerr = 0.0
-    #     for inp, outpt in samples:
-    #         print(len(inp))
-    #         print(len(outpt))
-    #         x = np.array(inp + [1.0] * B)
-    #         h = sigmoid_activation_func(np.dot(w1, x))
-    #         y = sigmoid_activation_func(np.dot(w2, h))
-    #         error = outpt - y
-    #         deltao = error * sigmoid_activation_func_derivative(y)
-    #         deltah = np.dot(deltao, w2) * sigmoid_activation_func_derivative(h)
-    #         w2 += 0.5 * deltao.reshape((NO, 1)) * h.reshape((1, NH))
-    #         w1 += 0.5 * deltah.reshape((NH, 1)) * x.reshape((1, NI + B))
-    #         sumerr += sum(error ** 2)
-    #     if sumerr < 0.01:
-    #         break
-    # print(cnt, sumerr)
+    for cnt in range(10000):
+        sumerr = 0.0
+        for inp, outpt in samples:
+            print("inp", len(inp))
+            print("output", len(outpt))
+            x = np.array(inp + [1.0] * B)
+
+
+            print("w1", np.shape(w1))
+            print("x", np.shape(x))
+
+            h = sigmoid_activation_func(np.dot(w1, x))
+            y = sigmoid_activation_func(np.dot(w2, h))
+            error = outpt - y
+            deltao = error * sigmoid_activation_func_derivative(y)
+            deltah = np.dot(deltao, w2) * sigmoid_activation_func_derivative(h)
+            w2 += 0.5 * deltao.reshape((NO, 1)) * h.reshape((1, NH))
+            w1 += 0.5 * deltah.reshape((NH, 1)) * x.reshape((1, NI + B))
+            sumerr += sum(error ** 2)
+        if sumerr < 0.01:
+            break
+    print(cnt, sumerr)
