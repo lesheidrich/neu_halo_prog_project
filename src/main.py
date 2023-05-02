@@ -26,7 +26,7 @@ def one_hot_encode(col: list) -> list:
 
 
 def sigmoid_activation_func(x):
-    return 1.0 / (1.0 + math.exp(-x))
+    return 1.0 / (1.0 + np.exp(-x))
 
 
 def sigmoid_activation_func_derivative(y):
@@ -95,45 +95,27 @@ if __name__ == '__main__':
     x_test = x_shuffled[train_size + val_size:]
     y_test = y_shuffled[train_size + val_size:]
 
-
-
     # how many input neurons I need
-    sum_inp_neu = sum([arr.shape[1] for arr in [year_normalized, price_normalized, mileage_normalized, model_normalized,
-                                       color_normalized, drivetrain_normalized, engine_normalized, fuel_type_normalized,
-                                       seller_normalized]])
+    sum_inp_neu = sum([arr.shape[1] for arr in [year_normalized, mileage_normalized, model_normalized,
+                                                color_normalized, drivetrain_normalized, engine_normalized,
+                                                fuel_type_normalized,
+                                                seller_normalized]])
 
-    NI, NH, NO, B = sum_inp_neu, sum_inp_neu*2, 1, 1
+    NI, NH, NO, B = sum_inp_neu, sum_inp_neu * 2, 1, 1
     w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
     w2 = np.random.random((NO, NH)) * 0.8 - 0.4
 
-    print("NI", np.shape(NI), NI)
-    print("NH", np.shape(NH), NH)
-    print("NO", np.shape(NO), NO)
-    print("B", np.shape(B), B)
-    print("w1", np.shape(w1), len(w1))
-    print("w2", np.shape(w2), len(w2))
-
     np.set_printoptions(threshold=np.inf)
 
+    # re-format x_input, y_input to proper input sample
     samples = list([
         [x_e, y_e] for x_e, y_e in zip(x_train, y_train)
     ])
-    # print(x_train[0])
-    # print()
-    # print(y_train[0])
-    # print(samples[0])
 
-
-    for cnt in range(10000):
+    for cnt in range(100):
         sumerr = 0.0
         for inp, outpt in samples:
-            print("inp", len(inp))
-            print("output", len(outpt))
-            x = np.array(inp + [1.0] * B)
-
-
-            print("w1", np.shape(w1))
-            print("x", np.shape(x))
+            x = np.array(list(inp) + [1.0] * B)
 
             h = sigmoid_activation_func(np.dot(w1, x))
             y = sigmoid_activation_func(np.dot(w2, h))
