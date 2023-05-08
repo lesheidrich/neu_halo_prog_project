@@ -1,11 +1,20 @@
-import math
+import math, numpy
+
 import numpy as np
 import pandas as pd
 
-from src.activation import Activation
-from src.dense import Dense
-import src.losses as ls
-from src.neural_network import NeuralNetwork
+
+# available activation functions
+def activation_tanh(x):     return numpy.tanh(x)  # (-1..1)
+
+
+def dactivation_tanh(x):    return 1.0 - x ** 2
+
+
+def activation_sigmoid(x):  return 1.0 / (1.0 + numpy.exp(-x))  # (0..1)
+
+
+def dactivation_sigmoid(x): return x * (1.0 - x)
 
 
 def normalize(col: list) -> list:
@@ -86,8 +95,6 @@ if __name__ == '__main__':
         axis=1)
     y = price_normalized
 
-
-
     np.random.seed(47)
     shuffled_indices = np.random.permutation(len(x))
     x_shuffled = x[shuffled_indices]
@@ -96,7 +103,6 @@ if __name__ == '__main__':
     val_size = int(0.1 * len(x_shuffled))
 
     # y_shuffled = np.array([y_shuffled])
-
 
     x_train = x_shuffled[:train_size]
     y_train = y_shuffled[:train_size]
@@ -110,12 +116,10 @@ if __name__ == '__main__':
                                                 color_normalized, drivetrain_normalized, engine_normalized,
                                                 fuel_type_normalized,
                                                 seller_normalized]])
-
-    print(y_train)
-    yamnt = len(y_train)
-
-    y_train = np.hstack((y_train, np.zeros((yamnt, 1))))
-
+    # REFORMAT Y to 2D
+    # print(y_train)
+    # yamnt = len(y_train)
+    # y_train = np.hstack((y_train, np.zeros((yamnt, 1))))
 
     # NI, NH, NO, B = sum_inp_neu, sum_inp_neu * 2, 1, 1
     # w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
@@ -127,43 +131,43 @@ if __name__ == '__main__':
     samples = list([
         [x_e, y_e] for x_e, y_e in zip(x_train, y_train)
     ])
-    #
-    # # https://aries.ektf.hu/~tajti/neural/neural_bev_04_numpyv.py
-    #
-    # for cnt in range(100):
-    #     sumerr = 0.0
-    #     for inp, outpt in samples:
-    #         x = np.array(list(inp) + [1.0] * B)
-    #
-    #         h = sigmoid_activation_func(np.dot(w1, x))
-    #         y = sigmoid_activation_func(np.dot(w2, h))
-    #         error = outpt - y
-    #         deltao = error * sigmoid_activation_func_derivative(y)
-    #         deltah = np.dot(deltao, w2) * sigmoid_activation_func_derivative(h)
-    #         w2 += 0.5 * deltao.reshape((NO, 1)) * h.reshape((1, NH))
-    #         w1 += 0.5 * deltah.reshape((NH, 1)) * x.reshape((1, NI + B))
-    #         sumerr += sum(error ** 2)
-    #     if sumerr < 0.01:
-    #         break
-    # print(cnt, sumerr)
 
-    # print(np.asmatrix(y_train))
+    # acti, dacti = activation_sigmoid, dactivation_sigmoid
+    acti, dacti = activation_tanh, dactivation_tanh
 
-    # network = [
-    #     Dense(sum_inp_neu, 5),
-    #     Activation(),
-    #     Dense(5, 50),
-    #     Activation(),
-    #     Dense(50, 2),
-    #     Activation()
-    # ]
-    #
-    # epochs = 50
-    # learrate = 0.5
-    # NN = NeuralNetwork(network, ls.mse, ls.mse_prime)
-    # NN.train(np.asmatrix(x_train), np.asmatrix(y_train).transpose(), epochs, learrate)
+    # samples = [[[0, 0], [0, 0]], [[0, 1], [0, 1]], [[1, 0], [0, 1]], [[1, 1], [1, 1]]]   # AND ĂŠs OR
+    # samples = [[[0, 0], [0, 0, 0]], [[0, 1], [0, 1, 1]], [[1, 0], [0, 1, 1]], [[1, 1], [1, 1, 0]]]  # AND, OR ĂŠs XOR
 
+    B = 1
+    # nn = [2+B, 4, IDE BAYY 3, 3]
+    nn = [len(samples[0][0]) + B, 4, 5, 3, len(samples[0][1])]
+    wl = [numpy.random.random((nn[l + 1], nn[l])) * 0.8 - 0.4 for l in range(len(nn) - 1)]
+    # wl = [numpy.linspace(-1,1,nn[l]*nn[l+1]).reshape((nn[l+1], nn[l])) for l in range(len(nn)-1)]
+    delta = [numpy.zeros((nn[l + 1])) for l in range(len(nn) - 1)]
 
+    epoch = 0
+    sumerr = 1.0
+    while sumerr >= 0.01 and epoch <= 10000:
+        sumerr = 0.0
+        epoch += 1
+        # for inp, out in random.sample(samples, len(samples)):
+        for inp, out in samples:
+            nl = [numpy.array(inp + [1.0] * B)]
+            for l in range(len(nn) - 1):
+                nl.append(acti(numpy.dot(wl[l], nl[l])))
+            error = out - nl[-1]
+            # delta = [None for _ in range(len(nn)-1)]
+            for l in reversed(range(len(nn) - 1)):
+                if l == len(nn) - 2:
+                    # delta[l] = error*dacti(nl[-1])
+                    delta[l][:] = error * dacti(nl[-1])
+                else:
+                    # delta[l] = numpy.dot(delta[l+1],wl[l+1])*dacti(nl[l+1])
+                    numpy.dot(delta[l + 1], wl[l + 1], out=delta[l])
+                    delta[l] *= dacti(nl[l + 1])
 
+                wl[l] += 0.5 * delta[l].reshape((nn[l + 1], 1)) * nl[l].reshape((1, nn[l]))
 
-
+            sumerr += sum(error ** 2)
+        # print (epoch,sumerr)
+    print(epoch, sumerr)
