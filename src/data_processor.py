@@ -33,6 +33,7 @@ class DataProcessor:
         self.train_samples = []
         self.sum_inp_neu = None
         self.model_label_y = None
+        self.y_test = None
 
     def pre_process(self):
         self.filtered_cols = self.filtered_cols[self.filtered_cols['Price'] != 'Not Priced']
@@ -46,8 +47,6 @@ class DataProcessor:
         engine = self.filtered_cols['Engine'].to_numpy()
         fuel_type = self.filtered_cols['Fuel_Type'].to_numpy()
         seller = self.filtered_cols['Seller_Type'].to_numpy()
-
-        print(len(model))
 
         # min-max
         price = [int(p.replace("$", "").replace(",", "")) for p in price]
@@ -88,12 +87,12 @@ class DataProcessor:
         x_train = x_shuffled[:train_size]
         y_train = y_shuffled[:train_size]
         x_test = x_shuffled[train_size:]
-        y_test = y_shuffled[train_size:]
+        self.y_test = y_shuffled[train_size:]
 
         # model_test
         model_resh = model.reshape(-1, 1)
         model_shuf = model_resh[shuffled_indices]
-        self.model_label_y = model_shuf[train_size + val_size:]
+        self.model_label_y = model_shuf[train_size:]
 
         # input neuron count
         self.sum_inp_neu = sum([arr.shape[1] for arr in [year_normalized, mileage_normalized, model_normalized,
@@ -106,5 +105,5 @@ class DataProcessor:
         ])
 
         self.test_samples = list([
-            [x_t, y_t] for x_t, y_t in zip(x_test, y_test)
+            [x_t, y_t] for x_t, y_t in zip(x_test, self.y_test)
         ])

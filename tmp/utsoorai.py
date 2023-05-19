@@ -37,7 +37,7 @@ def sigmoid_activation_func_derivative(y):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('../dataset/honda_sell_data.csv')
+    df = pd.read_csv('../dataset/honda_sell_data_OG.csv')
     filtered_cols = df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
                         'Engine', 'Mileage', 'Seller_Type']]
     filtered_cols = filtered_cols[filtered_cols['Price'] != 'Not Priced']
@@ -143,7 +143,7 @@ if __name__ == '__main__':
 
     epoch = 0
     sumerr = 1.0
-    while sumerr >= 0.01 and epoch <= 5000:
+    while sumerr >= 0.01 and epoch <= 50:
         sumerr = 0.0
         epoch += 1
         for inp, out in samples:
@@ -163,6 +163,8 @@ if __name__ == '__main__':
             sumerr += sum(error ** 2)
     print(epoch, sumerr)
 
+
+
     # TESTING
     test_results = []
     for inp, out in test_samples:
@@ -174,3 +176,5 @@ if __name__ == '__main__':
 
     for y in range(len(y_test)):
         print("Model:", model_y[y], "\tNeu:", test_results[y], "\tAns:", y_test[y], "\tDiff:", abs(test_results[y]-y_test[y]))
+
+
