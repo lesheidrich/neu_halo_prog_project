@@ -2,10 +2,10 @@ import math
 import numpy as np
 import pandas as pd
 
-from src.activation import Activation
-from src.dense import Dense
-import src.losses as ls
-from src.neural_network import NeuralNetwork
+from tmp.activation import Activation
+from tmp.dense import Dense
+import tmp.losses as ls
+from tmp.neural_network import NeuralNetwork
 
 
 def normalize(col: list) -> list:
@@ -39,7 +39,7 @@ def sigmoid_activation_func_derivative(y):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv('../dataset/honda_sell_data.csv')
+    df = pd.read_csv('../dataset/honda_sell_data_OG.csv')
     filtered_cols = df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
                         'Engine', 'Mileage', 'Seller_Type']]
     filtered_cols = filtered_cols[filtered_cols['Price'] != 'Not Priced']
