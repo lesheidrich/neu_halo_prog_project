@@ -30,13 +30,15 @@ acti, dacti = activation_sigmoid, dactivation_sigmoid
 
 
 B = 1
-nn = [dp.sum_inp_neu + B, 85, 50, 15, len(samples[0][1])]
+# nn = [dp.sum_inp_neu + B, 135, 50, 35, 15, len(samples[0][1])] 2.56
+nn = [dp.sum_inp_neu + B, 180, 50, 35, 15, len(samples[0][1])]
 wl = [np.random.random((nn[l + 1], nn[l])) * 0.8 - 0.4 for l in range(len(nn) - 1)]
 delta = [np.zeros((nn[l + 1])) for l in range(len(nn) - 1)]
 
 epoch = 0
 sumerr = 1.0
-while sumerr >= 0.01 and epoch <= 5:
+while sumerr >= 0.01 and epoch <= 5000:
+    print(epoch, sumerr)
     sumerr = 0.0
     epoch += 1
     for inp, out in samples:
