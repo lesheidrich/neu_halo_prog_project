@@ -1,11 +1,5 @@
-import math
 import numpy as np
 import pandas as pd
-
-from tmp.activation import Activation
-from tmp.dense import Dense
-import tmp.losses as ls
-from tmp.neural_network import NeuralNetwork
 
 
 def normalize(col: list) -> list:

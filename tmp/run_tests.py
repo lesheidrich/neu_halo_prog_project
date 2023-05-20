@@ -31,16 +31,29 @@ acti, dacti = activation_sigmoid, dactivation_sigmoid
 
 B = 1
 # nn = [dp.sum_inp_neu + B, 135, 50, 35, 15, len(samples[0][1])] 2.56
-nn = [dp.sum_inp_neu + B, 180, 50, 35, 15, len(samples[0][1])]
+# nn = [dp.sum_inp_neu + B, 180, 50, 35, 15, len(samples[0][1])] 2.59
+
+# 2.4 : drops better at first but converges slowly after 4 to a halt around
+# nn = [dp.sum_inp_neu + B, 180, 50, 8, len(samples[0][1])]
+# 2.3 : starts off a bit better and turns log later
+# nn = [dp.sum_inp_neu + B, 180, 75, 8, len(samples[0][1])]
+# 2.46
+# nn = [dp.sum_inp_neu + B, 180, 45, 8, len(samples[0][1])]
+# 3.65
+# nn = [dp.sum_inp_neu + B, 180, 80, 35, len(samples[0][1])]
+# 2.35
+nn = [dp.sum_inp_neu + B, 180, 80, 5, len(samples[0][1])]
 wl = [np.random.random((nn[l + 1], nn[l])) * 0.8 - 0.4 for l in range(len(nn) - 1)]
 delta = [np.zeros((nn[l + 1])) for l in range(len(nn) - 1)]
 
-epoch = 0
+cnt = 1
+epoch = 5000
 sumerr = 1.0
-while sumerr >= 0.01 and epoch <= 5000:
-    print(epoch, sumerr)
+while sumerr >= 0.01 and epoch > 0:
+    print(cnt, sumerr)
     sumerr = 0.0
-    epoch += 1
+    epoch -= 1
+    cnt += 1
     for inp, out in samples:
         nl = [np.array(list(inp) + [1.0] * B)]
         for l in range(len(nn) - 1):

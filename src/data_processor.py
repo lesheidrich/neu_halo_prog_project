@@ -26,6 +26,9 @@ def one_hot_encode(col: list) -> list:
 
 class DataProcessor:
     def __init__(self, table: str):
+        """
+        :param table: csv input file
+        """
         self.df = pd.read_csv(f'../dataset/{table}')
         self.filtered_cols = self.df[['Year', 'Model', 'Price', 'Exterior_Color', 'Drivetrain', 'Fuel_Type',
                                       'Engine', 'Mileage', 'Seller_Type']]
@@ -48,7 +51,7 @@ class DataProcessor:
         fuel_type = self.filtered_cols['Fuel_Type'].to_numpy()
         seller = self.filtered_cols['Seller_Type'].to_numpy()
 
-        # min-max
+        # data cleanup
         price = [int(p.replace("$", "").replace(",", "")) for p in price]
         for i, mile in enumerate(mileage):
             if isinstance(mile, float) or mile == '–':
@@ -58,11 +61,12 @@ class DataProcessor:
             else:
                 mileage[i] = int(mile)
 
+        # min-max encoding
         year_normalized = normalize(year)
         price_normalized = normalize(price)
         mileage_normalized = normalize(mileage)
 
-        # one-hot
+        # one-hot encoding
         model_normalized = np.array(one_hot_encode(model))
         color_normalized = np.array(one_hot_encode(color))
         drivetrain_normalized = np.array(one_hot_encode(drivetrain))
@@ -82,14 +86,14 @@ class DataProcessor:
         y_shuffled = y[shuffled_indices]
 
         train_size = int(0.8 * len(x_shuffled))
-        val_size = int(0.2 * len(x_shuffled))
+        # test_size = int(0.2 * len(x_shuffled))
 
         x_train = x_shuffled[:train_size]
         y_train = y_shuffled[:train_size]
         x_test = x_shuffled[train_size:]
         self.y_test = y_shuffled[train_size:]
 
-        # model_test
+        # model_test for testing df
         model_resh = model.reshape(-1, 1)
         model_shuf = model_resh[shuffled_indices]
         self.model_label_y = model_shuf[train_size:]

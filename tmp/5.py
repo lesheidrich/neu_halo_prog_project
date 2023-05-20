@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # available activation functions
-def activation_tanh(x):     return numpy.tanh(x)  # (-1..1)
+def activation_tanh(x):     return numpy.tanh(x.astype(float))  # (-1..1)
 
 
 def dactivation_tanh(x):    return 1.0 - x ** 2
