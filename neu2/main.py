@@ -1,5 +1,8 @@
 import numpy as np
 import pandas as pd
+from neu2.activation import Activation
+from neu2.dense import Dense
+from neu2.neural_network import NeuralNetwork
 
 
 def normalize(col: list) -> list:
@@ -131,43 +134,7 @@ if __name__ == '__main__':
     print("x", x_train.shape)
     print("x", y_train.shape)
 
-    # B = 1
-    # # nn = [2+B, 4, IDE BAYY 3, 3]
-    # nn = [len(samples[0][0]) + B, 4, 5, 3, len(samples[0][1])]
-    # wl = [np.random.random((nn[l + 1], nn[l])) * 0.8 - 0.4 for l in range(len(nn) - 1)]
-    # # wl = [numpy.linspace(-1,1,nn[l]*nn[l+1]).reshape((nn[l+1], nn[l])) for l in range(len(nn)-1)]
-    # delta = [np.zeros((nn[l + 1])) for l in range(len(nn) - 1)]
-    #
-    # epoch = 0
-    # sumerr = 1.0
-    # while sumerr >= 0.01 and epoch <= 10000:
-    #     sumerr = 0.0
-    #     epoch += 1
-    #     # for inp, out in random.sample(samples, len(samples)):
-    #     for inp, out in samples:
-    #         nl = [np.array(inp + [1.0] * B)]
-    #         for l in range(len(nn) - 1):
-    #             nl.append(acti(np.dot(wl[l], nl[l])))
-    #         error = out - nl[-1]
-    #         # delta = [None for _ in range(len(nn)-1)]
-    #         for l in reversed(range(len(nn) - 1)):
-    #             if l == len(nn) - 2:
-    #                 # delta[l] = error*dacti(nl[-1])
-    #                 delta[l][:] = error * dacti(nl[-1])
-    #             else:
-    #                 # delta[l] = numpy.dot(delta[l+1],wl[l+1])*dacti(nl[l+1])
-    #                 np.dot(delta[l + 1], wl[l + 1], out=delta[l])
-    #                 delta[l] *= dacti(nl[l + 1])
-    #
-    #             wl[l] += 0.5 * delta[l].reshape((nn[l + 1], 1)) * nl[l].reshape((1, nn[l]))
-    #
-    #         sumerr += sum(error ** 2)
-    #     # print (epoch,sumerr)
-    # print(epoch, sumerr)
 
-    #
-    # # https://aries.ektf.hu/~tajti/neural/neural_bev_04_numpyv.py
-    #
     # for cnt in range(100):
     #     sumerr = 0.0
     #     for inp, outpt in samples:
@@ -187,19 +154,19 @@ if __name__ == '__main__':
 
     # print(np.asmatrix(y_train))
 
-    # network = [
-    #     Dense(sum_inp_neu, 5),
-    #     Activation(),
-    #     Dense(5, 50),
-    #     Activation(),
-    #     Dense(50, 2),
-    #     Activation()
-    # ]
-    #
-    # epochs = 50
-    # learrate = 0.5
-    # NN = NeuralNetwork(network, ls.mse, ls.mse_prime)
-    # NN.train(np.asmatrix(x_train), np.asmatrix(y_train).transpose(), epochs, learrate)
+    network = [
+        Dense(sum_inp_neu, 5),
+        Activation(),
+        Dense(5, 50),
+        Activation(),
+        Dense(50, 2),
+        Activation()
+    ]
+
+    epochs = 50
+    learrate = 0.5
+    NN = NeuralNetwork(network, ls.mse, ls.mse_prime)
+    NN.train(np.asmatrix(x_train), np.asmatrix(y_train).transpose(), epochs, learrate)
 
 
 

@@ -7,8 +7,8 @@ class NeuralNetwork:
         self.loss = loss
         self.loss_prime = loss_prime
 
-    def predict(self, input):
-        output = input
+    def predict(self, inp):
+        output = inp
         for layer in self.network:
             output = layer.forward(output)
         return output
@@ -23,14 +23,13 @@ class NeuralNetwork:
                 # error
                 error += self.loss(y, output)
 
-                print("y", np.shape(y))
-                print("output", np.shape(output))
-
+                # print("y", np.shape(y))
+                # print("output", np.shape(output))
 
                 # backward
                 grad = self.loss_prime(y, output)
 
-                print("grad", np.shape(grad))
+                # print("grad", np.shape(grad))
 
                 for layer in reversed(self.network):
                     grad = layer.backward(grad, learning_rate)

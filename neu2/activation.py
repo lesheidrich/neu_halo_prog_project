@@ -18,5 +18,4 @@ class Activation:
     def sigmoid_prime(self, x):
         s = self.sigmoid(x)
         # return np.multiply(s * (1 - s))
-
         return s * (1 - s)
