@@ -8,7 +8,7 @@ class NeuralNetwork:
         self.loss_prime = loss_prime
 
     def predict(self, inp):
-        output = inp
+        output = list(inp)
         for layer in self.network:
             output = layer.forward(output)
         return output

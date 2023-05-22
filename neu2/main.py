@@ -130,7 +130,7 @@ if __name__ == '__main__':
 
     print("full", samples[0])
     print("x", x_train.shape)
-    print("x", y_train.shape)
+    print("y", y_train.shape)
 
     # for cnt in range(100):
     #     sumerr = 0.0
@@ -152,9 +152,9 @@ if __name__ == '__main__':
     # print(np.asmatrix(y_train))
 
     network = [
-        Dense(sum_inp_neu, 5),
+        Dense(sum_inp_neu, 180),
         Activation(),
-        Dense(5, 50),
+        Dense(180, 50),
         Activation(),
         Dense(50, 2),
         Activation()
@@ -163,4 +163,4 @@ if __name__ == '__main__':
     epochs = 50
     learrate = 0.5
     NN = NeuralNetwork(network, losses.mse, losses.mse_prime)
-    NN.train(np.asmatrix(x_train), np.asmatrix(y_train).transpose(), epochs, learrate)
+    NN.train(x_train, y_train, epochs, learrate)

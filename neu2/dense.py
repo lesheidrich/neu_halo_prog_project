@@ -4,13 +4,13 @@ import numpy as np
 class Dense:
     def __init__(self, input_size, output_size):
         self.input = None
-        self.weights = np.random.randn(output_size, input_size)
+        self.weights = np.random.randn(input_size, output_size)
         self.bias = np.random.randn(output_size, 1)
 
     def forward(self, x_inp):
         self.input = x_inp
-        print("w shape", np.shape(self.weights))
-        print("input", np.shape(self.input))
+        # print("w shape", np.shape(self.weights))
+        # print("input", np.shape(self.input))
         # if np.shape(np.asmatrix(self.input))[0] == 1:
         #     return np.dot(np.asmatrix(self.weights), np.asmatrix(self.input).transpose()) + np.asmatrix(self.bias)
         return np.dot(self.weights, self.input) + self.bias
