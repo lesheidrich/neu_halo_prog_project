@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd
+
+from neu2 import losses
 from neu2.activation import Activation
 from neu2.dense import Dense
 from neu2.neural_network import NeuralNetwork
@@ -83,8 +85,6 @@ if __name__ == '__main__':
         axis=1)
     y = price_normalized
 
-
-
     np.random.seed(47)
     shuffled_indices = np.random.permutation(len(x))
     x_shuffled = x[shuffled_indices]
@@ -93,7 +93,6 @@ if __name__ == '__main__':
     val_size = int(0.1 * len(x_shuffled))
 
     # y_shuffled = np.array([y_shuffled])
-
 
     x_train = x_shuffled[:train_size]
     y_train = y_shuffled[:train_size]
@@ -112,7 +111,6 @@ if __name__ == '__main__':
     # yamnt = len(y_train)
     #
     # y_train = np.hstack((y_train, np.zeros((yamnt, 1))))
-
 
     # NI, NH, NO, B = sum_inp_neu, sum_inp_neu * 2, 1, 1
     # w1 = np.random.random((NH, NI + B)) * 0.8 - 0.4
@@ -133,7 +131,6 @@ if __name__ == '__main__':
     print("full", samples[0])
     print("x", x_train.shape)
     print("x", y_train.shape)
-
 
     # for cnt in range(100):
     #     sumerr = 0.0
@@ -165,10 +162,5 @@ if __name__ == '__main__':
 
     epochs = 50
     learrate = 0.5
-    NN = NeuralNetwork(network, ls.mse, ls.mse_prime)
+    NN = NeuralNetwork(network, losses.mse, losses.mse_prime)
     NN.train(np.asmatrix(x_train), np.asmatrix(y_train).transpose(), epochs, learrate)
-
-
-
-
-
