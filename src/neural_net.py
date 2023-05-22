@@ -79,13 +79,13 @@ class NeuralNet:
             self.test_results.append(self.nl[-1])
 
         input("\nENTER to display results\n")
-        df = pd.DataFrame(columns=["Model", "Predicted", "Actual", "Diff%"])
+        df = pd.DataFrame(columns=["Model", "Predicted", "Actual", "Diff$"])
         for y in range(len(self.model_label)):
             model = self.model_label[y]
             neu = self.test_results[y]
             ans = self.y_test[y]
-            diff = (abs(self.test_results[y] - self.y_test[y]) * 100).round(4)
-            row = pd.DataFrame({"Model": [model], "Predicted": [neu], "Actual": [ans], "Diff%": [diff]})
+            diff = (abs(self.test_results[y] - self.y_test[y]) * 56830).round(2)
+            row = pd.DataFrame({"Model": [model], "Predicted": [neu], "Actual": [ans], "Diff$": [diff]})
             df = pd.concat([df, row], ignore_index=True)
 
-        print(df[["Model", "Predicted", "Actual", "Diff%"]].to_string(index=False))
+        print(df[["Model", "Predicted", "Actual", "Diff$"]].to_string(index=False))
