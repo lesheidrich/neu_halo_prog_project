@@ -43,7 +43,7 @@ class NeuralNet:
     def train(self):
         cnt = 1
         mse = 1.0
-        print("\nCOMMENCING TRAINING:\n")
+        print("\nCOMMENCING TRAINING:")
         while mse >= 0.01 and self.epoch > 0:
             print(f"Epoch {cnt}: {mse}")
             mse = 0.0
@@ -79,16 +79,19 @@ class NeuralNet:
 
             self.test_results.append(self.nl[-1])
 
-        sort = input("\nSort results by model? <y/n>: ")
-        df = pd.DataFrame(columns=["Model", "Predicted", "Actual", "Diff$"])
+        while True:
+            sort = input("\nSort results by model? <y/n>: ")
+            if sort == 'n' or sort == 'y':
+                break
+        df = pd.DataFrame(columns=["Model", "Predicted$", "Actual$", "Diff$"])
         for y in range(len(self.model_label)):
             model = self.model_label[y]
-            neu = self.test_results[y]
-            ans = self.y_test[y]
+            neu = (self.test_results[y] * 56830).round(2)
+            ans = (self.y_test[y] * 56830).round(2)
             diff = (abs(self.test_results[y] - self.y_test[y]) * 56830).round(2)
-            row = pd.DataFrame({"Model": [model], "Predicted": [neu], "Actual": [ans], "Diff$": [diff]})
+            row = pd.DataFrame({"Model": [model], "Predicted$": [neu], "Actual$": [ans], "Diff$": [diff]})
             df = pd.concat([df, row], ignore_index=True)
 
         if sort.startswith('y'):
             df = df.sort_values("Model")
-        print(df[["Model", "Predicted", "Actual", "Diff$"]].to_string(index=False))
+        print(df[["Model", "Predicted$", "Actual$", "Diff$"]].to_string(index=False))

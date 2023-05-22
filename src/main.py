@@ -13,10 +13,10 @@ if __name__ == '__main__':
     # hidden = [180, 80, 5]     # 2.35
     hidden = [180, 75, 38, 3]  # 2.31
     B = 1
-    epoch = 1
+    epoch = 5000
     act_f = "sig"
     # act_f = "tanh"
-    learn_rate = 0.5
+    learn_rate = 0.6
 
     nn = NeuralNet(bias=B, sum_inp=dp.sum_inp_neu, hidden=hidden, samples=dp.train_samples, epoch=epoch, activ=act_f,
                    test_samples=dp.test_samples, label_y=dp.model_label_y, y_test=dp.y_test, learn_rate=learn_rate)
