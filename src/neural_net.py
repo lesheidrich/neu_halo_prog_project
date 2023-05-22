@@ -24,7 +24,8 @@ class NeuralNet:
         self.nn = [sum_inp + self.B] + hidden + [len(samples[0][1])] # node num / nn layer
         self.samples = samples
         self.epoch = epoch
-        # weights -0.4 - 0.4
+        # weights matrix -0.4 - 0.4
+        #           num of nodes in next layer V          V num nodes in current layer
         self.wl = [np.random.random((self.nn[l + 1], self.nn[l])) * 0.8 - 0.4 for l in range(len(self.nn) - 1)]
         # layer errors
         self.delta = [np.zeros((self.nn[l + 1])) for l in range(len(self.nn) - 1)]
@@ -49,7 +50,7 @@ class NeuralNet:
             self.epoch -= 1
             cnt += 1
             for inp, out in self.samples:
-                # each layer's neurons
+                # each layer's neuron values
                 self.nl = [np.array(list(inp) + [1.0] * self.B)]
                 for l in range(len(self.nn) - 1):
                     # forward prop: w*n val
@@ -63,7 +64,7 @@ class NeuralNet:
                     else:
                         np.dot(self.delta[l + 1], self.wl[l + 1], out=self.delta[l])
                         self.delta[l] *= self.dacti(self.nl[l + 1])
-                    # updated weights increased by learn rate * layer errors * neuron values
+                    # update weights - increased by learn rate * layer errors * neuron values
                     self.wl[l] += self.learn_rate * self.delta[l].reshape((self.nn[l + 1], 1)) * self.nl[l].reshape((1, self.nn[l]))
 
                 mse += sum(error ** 2)
@@ -78,7 +79,7 @@ class NeuralNet:
 
             self.test_results.append(self.nl[-1])
 
-        input("\nENTER to display results\n")
+        sort = input("\nSort results by model? <y/n>: ")
         df = pd.DataFrame(columns=["Model", "Predicted", "Actual", "Diff$"])
         for y in range(len(self.model_label)):
             model = self.model_label[y]
@@ -88,4 +89,6 @@ class NeuralNet:
             row = pd.DataFrame({"Model": [model], "Predicted": [neu], "Actual": [ans], "Diff$": [diff]})
             df = pd.concat([df, row], ignore_index=True)
 
+        if sort.startswith('y'):
+            df = df.sort_values("Model")
         print(df[["Model", "Predicted", "Actual", "Diff$"]].to_string(index=False))
