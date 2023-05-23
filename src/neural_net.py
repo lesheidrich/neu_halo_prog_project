@@ -83,6 +83,7 @@ class NeuralNet:
             sort = input("\nSort results by model? <y/n>: ")
             if sort == 'n' or sort == 'y':
                 break
+
         df = pd.DataFrame(columns=["Model", "Predicted$", "Actual$", "Diff$"])
         for y in range(len(self.model_label)):
             model = self.model_label[y]
@@ -95,3 +96,5 @@ class NeuralNet:
         if sort.startswith('y'):
             df = df.sort_values("Model")
         print(df[["Model", "Predicted$", "Actual$", "Diff$"]].to_string(index=False))
+
+        print(f"Average difference: {df['Diff$'].mean().round(2)[0]}")
