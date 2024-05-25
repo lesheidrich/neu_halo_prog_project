@@ -21,3 +21,6 @@ The NN ops dir utilizes data_processor.py to clean and prepare the data with cla
 
 ### neu2
 An alternate approach for running the dataset.
+
+## Results
+The dataset was run on all general vehicle categories sold by Honda at the time. To decrease the likelyhood of outliers, car ages were limited to only a few years. With car prices reaching values in the 30+ thousand dollar range, the model reached an average error of $500 compared to the actual sales price.
