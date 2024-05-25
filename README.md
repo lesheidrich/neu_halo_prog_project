@@ -18,3 +18,6 @@ This package contains the original and modified datasets of the Honda sales data
 
 ### src
 The NN ops dir utilizes data_processor.py to clean and prepare the data with classic normalization and one-hot encoding.
+
+### neu2
+An alternate approach for running the dataset.
