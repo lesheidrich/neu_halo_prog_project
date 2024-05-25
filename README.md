@@ -3,7 +3,14 @@
 The project was completed as a part of the Neural Network course at Eszterhazy Karoly Catholic University during my Computer Science BSc in 2023
 
 ## Project Description
-As an introduction to Neural Networks, the project only utilizes Numpy and Pandas throughout the process of acquiring, cleaning, preparing and processing the data.
+This project implements a simple Neural Network utilizing Pandas and Numpy. The NN performs data analytics, cleaning, processing, and model building. It supports training and testing processes with configurable parameters such as activation functions, learning rate, and epochs.
+
+### Key features
+* Supports Sigmoid and Tanh activation functions
+* Weights are initialized randomly within a range
+* Backpropagation for error correction and updating weights
+* Training continues until MSE reaches a threshold or a specified number of epochs is completed
+* Utilizes data normalization and one-hot encoding
 
 ## Components
 ### dataset
